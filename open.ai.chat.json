@@ -1,0 +1,20 @@
+{
+   "ad_priority":[
+      "admob",
+      "facebook",
+      "unity",
+      "appLovin",
+      "any"
+   ],
+   "banner_ad_priority":[
+      "admob",
+      "facebook",
+      "unity",
+      "appLovin",
+      "any"
+   ],
+   "interstitial_ad_count":2,
+   "is_ios_approving":false,
+   "api_key":"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",
+   "is_android_approving":false
+}
