@@ -1,17 +1,83 @@
 {
-   "ad_priority":[
-      "facebook",
-      "unity",
-      "appLovin",
-      "any"
-   ],
-   "banner_ad_priority":[
-      "facebook",
-      "unity",
-      "appLovin",
-      "any"
-   ],
-   "interstitial_ad_count":2,
-   "is_ios_approving":false,
-   "is_android_approving":false
+  "puzzles": [
+    {
+      "img": "https://logiclike.com/files/media/mc/3k/r4vt937a_5eff18eea9066.png",
+      "answer": "3"
+    },
+    {
+      "img": "https://logiclike.com/files/media/zd/r7/t9gbpv34_5f073bf7b27ed.png",
+      "answer": "16"
+    },
+    {
+      "img": "https://logiclike.com/files/media/5s/r1/lvnv3hpl_5efd968f9a659.png",
+      "answer": "2"
+    },
+    {
+      "img": "https://puzzlefry.com/wp-content/uploads/2020/04/who-is-more-stupid-puzzle.jpeg",
+      "answer": "4"
+    },
+    {
+      "img": "https://puzzlefry.com/wp-content/uploads/2017/11/53426655a6db441d10f384d03609a5e0325463df188d92dbccb722669c147dc037a508a1.jpg",
+      "answer": "1"
+    },
+    {
+      "img": "https://www.recruitment.guru/wp-content/uploads/2017/09/Brain-Teaser-1.jpg",
+      "answer": "87"
+    },
+    {
+      "img": "https://www.recruitment.guru/wp-content/uploads/2017/09/Number-Puzzle.png",
+      "answer": "366329"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/1586987812039-9B8C3ZSUN13L5DZ1HVPN/one.jpg?format=750w",
+      "answer": "5"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/1586987867193-EFY9X2K5I6335HL8KVXU/two.jpg?format=750w",
+      "answer": "11"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/1586987944098-59WT0D431C9QANQ0O6GI/three.jpg?format=750w",
+      "answer": "17"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/1586987975623-1FAJS03MRZRFZC3Y1UUO/04.jpg?format=750w",
+      "answer": "25"
+    },
+    {
+      "img": "https://gpuzzles.com/images/riddles/A-single-word-Riddle-2317.jpeg",
+      "answer": "A SINGLE WORD"
+    },
+    {
+      "img": "https://gpuzzles.com/images/riddles/How-many-letters-in-the-alphabet-riddle-2310.jpeg",
+      "answer": "11"
+    },
+    {
+      "img": "https://gpuzzles.com/images/riddles/You-Enter-A-Bedroom-Viral-Facebook-Riddler-2284.jpeg",
+      "answer": "41"
+    },
+    {
+      "img": "https://gpuzzles.com/images/riddles/I-had-4-eggs-Brain-Teaser-2245.jpeg",
+      "answer": "3"
+    },
+    {
+      "img": "https://gpuzzles.com/images/riddles/Water-bucket-logical-question-2215.jpeg",
+      "answer": "3"
+    }
+  ],
+  "ad_priority": [
+    "facebook",
+    "unity",
+    "appLovin",
+    "any"
+  ],
+  "banner_ad_priority": [
+    "facebook",
+    "unity",
+    "appLovin",
+    "any"
+  ],
+  "interstitial_ad_count": 2,
+  "is_ios_approving": false,
+  "is_android_approving": false
 }
