@@ -320,21 +320,13 @@
   },
   "ad_settings": {
     "ad_priority": [
-      "admob",
-      "facebook",
-      "unity",
-      "appLovin",
-      "any"
+      "admob"
     ],
     "banner_ad_priority": [
-      "admob",
-      "facebook",
-      "unity",
-      "appLovin",
-      "any"
+      "admob"
     ],
     "interstitial_ad_count": 2,
-    "is_ios_approving": false,
+    "is_ios_approving": true,
     "is_android_approving": false
   }
 }
