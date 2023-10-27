@@ -511,7 +511,7 @@
       "admob"
     ],
     "interstitial_ad_count": 2,
-    "is_ios_approving": false,
+    "is_ios_approving": true,
     "is_android_approving": false
   }
 }
