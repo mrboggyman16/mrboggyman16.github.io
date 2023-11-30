@@ -6,8 +6,8 @@
     "banner_ad_priority": [
       "admob"
     ],
-    "interstitial_ad_count": 5,
-    "is_ios_approving": true,
+    "interstitial_ad_count": 1,
+    "is_ios_approving": false,
     "is_android_approving": false
   }
 }
