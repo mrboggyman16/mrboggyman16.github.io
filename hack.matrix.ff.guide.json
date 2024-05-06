@@ -1,15 +1,15 @@
 "ad_settings": {
   "ad_priority": [
     "admob",
-    "unity",
     "appLovin",
+    "unity",
     "facebook",
     "any"
   ],
   "banner_ad_priority": [
     "admob",
-    "unity",
     "appLovin",
+    "unity",
     "facebook",
     "any"
   ],
