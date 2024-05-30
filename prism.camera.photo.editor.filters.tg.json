@@ -7,7 +7,8 @@
       "innerFrameHeightRatio": 0.7,
       "shape": "verticalRectangle",
       "innerImageLeftPadding": 5,
-      "innerImageTopPadding": 4
+      "innerImageTopPadding": 4,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -16,7 +17,8 @@
       "innerFrameHeightRatio": 0.95,
       "shape": "square",
       "innerImageLeftPadding": 3,
-      "innerImageTopPadding": 3
+      "innerImageTopPadding": 3,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -25,7 +27,8 @@
       "innerFrameHeightRatio": 0.8,
       "shape": "square",
       "innerImageLeftPadding": 3,
-      "innerImageTopPadding": 3
+      "innerImageTopPadding": 3,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -34,7 +37,8 @@
       "innerFrameHeightRatio": 0.7,
       "shape": "verticalRectangleLarge",
       "innerImageLeftPadding": 7,
-      "innerImageTopPadding": 12
+      "innerImageTopPadding": 12,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -43,7 +47,8 @@
       "innerFrameHeightRatio": 0.8,
       "shape": "verticalRectangle",
       "innerImageLeftPadding": 2,
-      "innerImageTopPadding": 2
+      "innerImageTopPadding": 2,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -52,7 +57,8 @@
       "innerFrameHeightRatio": 0.7,
       "shape": "horizontalRectangle",
       "innerImageLeftPadding": 5,
-      "innerImageTopPadding": 4
+      "innerImageTopPadding": 4,
+      "isLocked": false,
     },
     {
       "outerFrameHeight": 80,
@@ -61,7 +67,8 @@
       "innerFrameHeightRatio": 0.7,
       "shape": "circle",
       "innerImageLeftPadding": 5,
-      "innerImageTopPadding": 4
+      "innerImageTopPadding": 4,
+      "isLocked": false,
     }
   ],
   "ad_priority": [
