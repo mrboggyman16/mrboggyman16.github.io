@@ -11,7 +11,7 @@
           "shape": "verticalRectangle",
           "innerImageLeftPadding": 5,
           "innerImageTopPadding": 4,
-          "isLocked": false,
+          "isLocked": false
         },
         {
           "outerFrameHeight": 80,
