@@ -227,6 +227,53 @@
       ]
     }
   ],
+  "frameTextures": [
+    {
+      "title": "Retro",
+      "framesList": [
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/1.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/2.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/3.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/4.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/5.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/6.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/7.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/8.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/9.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/10.jpg"
+      ]
+    },
+    {
+      "title": "Modren",
+      "framesList": [
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/1.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/2.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/3.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/4.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/5.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/6.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/7.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/8.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/9.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/10.jpg"
+      ]
+    },
+    {
+      "title": "Vintage",
+      "framesList": [
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/1.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/2.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/3.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/4.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/5.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/6.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/7.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/8.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/9.jpg",
+        "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/10.jpg"
+      ]
+    }
+  ],
   "ad_priority": [
     "admob",
     "unity",
