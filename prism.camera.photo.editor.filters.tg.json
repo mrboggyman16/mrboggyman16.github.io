@@ -230,7 +230,7 @@
   "frameTextures": [
     {
       "title": "Retro",
-      "framesList": [
+      "texturesList": [
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/1.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/2.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/3.jpg",
@@ -245,7 +245,7 @@
     },
     {
       "title": "Modren",
-      "framesList": [
+      "texturesList": [
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/1.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/2.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/modren/3.jpg",
@@ -260,7 +260,7 @@
     },
     {
       "title": "Vintage",
-      "framesList": [
+      "texturesList": [
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/1.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/2.jpg",
         "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/vintage/3.jpg",
