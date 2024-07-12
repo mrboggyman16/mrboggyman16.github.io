@@ -1,6 +1,102 @@
 {
   "framesData": [
     {
+      "title": "Free",
+      "framesList": [
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.9,
+          "innerFrameHeightRatio": 0.7,
+          "shape": "verticalRectangle",
+          "innerImageLeftPadding": 5,
+          "innerImageTopPadding": 4,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.9,
+          "innerFrameHeightRatio": 0.75,
+          "shape": "verticalRectangle",
+          "innerImageLeftPadding": 5,
+          "innerImageTopPadding": 4,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.85,
+          "innerFrameHeightRatio": 0.7,
+          "shape": "verticalRectangleLarge",
+          "innerImageLeftPadding": 7,
+          "innerImageTopPadding": 12,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.95,
+          "innerFrameHeightRatio": 0.95,
+          "shape": "square",
+          "innerImageLeftPadding": 3,
+          "innerImageTopPadding": 3,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.9,
+          "innerFrameHeightRatio": 0.7,
+          "shape": "verticalRectangle",
+          "innerImageLeftPadding": 5,
+          "innerImageTopPadding": 22,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.7,
+          "innerFrameHeightRatio": 0.95,
+          "shape": "square",
+          "innerImageLeftPadding": 13,
+          "innerImageTopPadding": 3,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.93,
+          "innerFrameHeightRatio": 0.93,
+          "shape": "verticalRectangle",
+          "innerImageLeftPadding": 4,
+          "innerImageTopPadding": 4,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.93,
+          "innerFrameHeightRatio": 0.93,
+          "shape": "horizontalRectangle",
+          "innerImageLeftPadding": 4,
+          "innerImageTopPadding": 4,
+          "isLocked": false
+        },
+        {
+          "outerFrameHeight": 80,
+          "outerFrameWidth": 80,
+          "innerFrameWidthRatio": 0.9,
+          "innerFrameHeightRatio": 0.7,
+          "shape": "verticalRectangle",
+          "innerImageLeftPadding": 5,
+          "innerImageTopPadding": 4,
+          "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/7.jpg",
+          "isLocked": false
+        }
+      ]
+    },
+    {
       "title": "Simple",
       "framesList": [
         {
@@ -233,7 +329,7 @@
           "innerImageLeftPadding": 5,
           "innerImageTopPadding": 4,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/1.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -255,7 +351,7 @@
           "innerImageLeftPadding": 7,
           "innerImageTopPadding": 12,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/4.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -266,7 +362,7 @@
           "innerImageLeftPadding": 3,
           "innerImageTopPadding": 3,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/5.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -277,7 +373,7 @@
           "innerImageLeftPadding": 5,
           "innerImageTopPadding": 22,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/6.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -332,7 +428,7 @@
           "innerImageLeftPadding": 13,
           "innerImageTopPadding": 3,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/1.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -398,7 +494,7 @@
           "innerImageLeftPadding": 4,
           "innerImageTopPadding": 4,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/7.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
@@ -409,7 +505,7 @@
           "innerImageLeftPadding": 4,
           "innerImageTopPadding": 4,
           "textureUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/frame-textures/Retro/8.jpg",
-          "isLocked": false
+          "isLocked": true
         },
         {
           "outerFrameHeight": 80,
