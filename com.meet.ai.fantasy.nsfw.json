@@ -1,9 +1,9 @@
 {
   "ad_priority": [
+    "facebook",
     "admob",
     "unity",
     "appLovin",
-    "facebook",
     "any"
   ],
   "banner_ad_priority": [
