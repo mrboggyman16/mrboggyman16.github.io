@@ -1,845 +1,856 @@
 [
-   {
-      "id":"approving_girl_011",
-      "name":"Grace",
-      "age":24,
-      "location":"Phoenix, USA",
-      "bio":"Yoga instructor and meditation enthusiast. Finding peace in the chaos and balance in everything. Let's grow together spiritually and emotionally.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/4c3744a6699b4774db52eb4a5a7592a6.jpg",
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/9c7594cce39b60684098bcc4203b3fb0.jpg",
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/f41eb1dcaa61d48d98c9ae677b8e8c62.jpg"
+  {
+    "id": "approving_girl_001",
+    "name": "Emma",
+    "age": 25,
+    "location": "Los Angeles, USA",
+    "bio": "Creative soul with a passion for photography and late-night conversations. I love exploring new cafes and finding hidden gems in the city.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/ai-meet-hanzla-25/approving_girl_images/1/%201.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/1/Top%20Trendy%20Haircuts%20For%20Long%20Hair.jpg"
+    ],
+    "profileImageUrl": "https://raw.githubusercontent.com/mrboggyman16/mrboggyman16.github.io/master/ai-meet-hanzla-25/approving_girl_images/1/%201.jpg",
+    "personality": {
+      "romantic": 0.8,
+      "playful": 0.7,
+      "serious": 0.5,
+      "confident": 0.8,
+      "gentle": 0.7,
+      "adventurous": 0.8,
+      "intellectual": 0.6,
+      "humorous": 0.7,
+      "dominantType": "Creative Spirit"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Brown",
+      "eyeColor": "Hazel",
+      "figureType": "Athletic",
+      "heightCm": 168,
+      "specialFeatures": [
+        "Dimples"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/4c3744a6699b4774db52eb4a5a7592a6.jpg",
-      "personality":{
-         "romantic":0.8,
-         "playful":0.5,
-         "serious":0.6,
-         "confident":0.7,
-         "gentle":0.95,
-         "adventurous":0.6,
-         "intellectual":0.7,
-         "humorous":0.5,
-         "dominantType":"Spiritual"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Light Brown",
-         "eyeColor":"Hazel",
-         "figureType":"Toned",
-         "heightCm":167,
-         "specialFeatures":[
-            "Serene expression"
-         ],
-         "clothingStyle":"Zen Casual"
-      },
-      "interests":[
-         "Yoga",
-         "Meditation",
-         "Wellness",
-         "Spirituality",
-         "Mindfulness"
+      "clothingStyle": "Bohemian"
+    },
+    "interests": [
+      "Photography",
+      "Art",
+      "Music",
+      "Hiking",
+      "Coffee"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Photography",
+        "Painting",
+        "Yoga"
       ],
-      "languages":[
-         "English",
-         "Sanskrit"
+      "favoriteTopics": [
+        "Art",
+        "Travel",
+        "Philosophy",
+        "Music"
       ],
-      "preferences":{
-         "hobbies":[
-            "Yoga practice",
-            "Meditation",
-            "Journaling"
-         ],
-         "favoriteTopics":[
-            "Spirituality",
-            "Mindfulness",
-            "Personal growth",
-            "Wellness"
-         ],
-         "dislikes":[
-            "Negativity",
-            "Stress",
-            "Chaos"
-         ],
-         "idealDateTypes":[
-            "Yoga sessions",
-            "Nature walks",
-            "Meditation retreats"
-         ],
-         "communicationStyle":"Calm and centered",
-         "relationshipGoals":[
-            "Spiritual connection",
-            "Peaceful partnership"
-         ]
-      },
-      "stats":{
-         "totalMatches":870,
-         "totalConversations":650,
-         "averageRating":4.9,
-         "totalRatings":389,
-         "responseTimeMinutes":17,
-         "popularityTier":"Gold"
-      },
-      "createdAt":"2025-11-06T08:00:00.000Z",
-      "lastActiveAt":"2025-12-17T10:15:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_012",
-      "name":"Zoe",
-      "age":26,
-      "location":"Atlanta, USA",
-      "bio":"Dance instructor with rhythm in my soul. Life is better when you're moving. Looking for someone to dance through life with.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/1/1.jpg"
+      "dislikes": [
+        "Negativity",
+        "Closed-mindedness",
+        "Rush hour traffic"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/1/1.jpg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.9,
-         "serious":0.4,
-         "confident":0.8,
-         "gentle":0.6,
-         "adventurous":0.8,
-         "intellectual":0.5,
-         "humorous":0.8,
-         "dominantType":"Dancer"
-      },
-      "physicalTraits":{
-         "ethnicity":"African American",
-         "hairColor":"Black",
-         "eyeColor":"Brown",
-         "figureType":"Athletic",
-         "heightCm":169,
-         "specialFeatures":[
-            "Graceful movements"
-         ],
-         "clothingStyle":"Dance Wear"
-      },
-      "interests":[
-         "Dancing",
-         "Choreography",
-         "Music",
-         "Fitness",
-         "Performance"
+      "idealDateTypes": [
+        "Art gallery visits",
+        "Sunset photography walks",
+        "Live music venues"
       ],
-      "languages":[
-         "English"
+      "communicationStyle": "Thoughtful and creative",
+      "relationshipGoals": [
+        "Deep connection",
+        "Adventure partner"
+      ]
+    },
+    "stats": {
+      "totalMatches": 980,
+      "totalConversations": 750,
+      "averageRating": 4.8,
+      "totalRatings": 432,
+      "responseTimeMinutes": 12,
+      "popularityTier": "Gold"
+    },
+    "createdAt": "2025-11-01T10:00:00.000Z",
+    "lastActiveAt": "2025-12-17T16:30:00.000Z",
+    "isOnline": true,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_002",
+    "name": "Olivia",
+    "age": 27,
+    "location": "Chicago, USA",
+    "bio": "Ambitious professional by day, foodie by night. Looking for someone to explore the city's restaurant scene with and share meaningful moments.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/Unknown.jpeg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/e190ab9cbd19f31cd500cd975068828d.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/f7dd539a5cb12c50a72041b664d37fc0.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/Unknown.jpeg",
+    "personality": {
+      "romantic": 0.7,
+      "playful": 0.6,
+      "serious": 0.8,
+      "confident": 0.9,
+      "gentle": 0.6,
+      "adventurous": 0.7,
+      "intellectual": 0.8,
+      "humorous": 0.6,
+      "dominantType": "Professional"
+    },
+    "physicalTraits": {
+      "ethnicity": "Asian",
+      "hairColor": "Black",
+      "eyeColor": "Brown",
+      "figureType": "Slim",
+      "heightCm": 162,
+      "specialFeatures": [
+        "Elegant posture"
       ],
-      "preferences":{
-         "hobbies":[
-            "Dancing",
-            "Teaching dance",
-            "Creating choreography"
-         ],
-         "favoriteTopics":[
-            "Dance",
-            "Music",
-            "Performance art",
-            "Movement"
-         ],
-         "dislikes":[
-            "Two left feet",
-            "No rhythm",
-            "Sitting still"
-         ],
-         "idealDateTypes":[
-            "Dance classes",
-            "Salsa nights",
-            "Dance performances"
-         ],
-         "communicationStyle":"Energetic and expressive",
-         "relationshipGoals":[
-            "Dance partner",
-            "Fun and energy"
-         ]
-      },
-      "stats":{
-         "totalMatches":1320,
-         "totalConversations":910,
-         "averageRating":4.7,
-         "totalRatings":567,
-         "responseTimeMinutes":10,
-         "popularityTier":"Platinum"
-      },
-      "createdAt":"2025-11-07T12:00:00.000Z",
-      "lastActiveAt":"2025-12-17T18:20:00.000Z",
-      "isOnline":true,
-      "isPremium":false
-   },
-   {
-      "id":"approving_girl_013",
-      "name":"Lily",
-      "age":23,
-      "location":"San Diego, USA",
-      "bio":"Beach lover and surfer girl. Salt in my hair, sand between my toes. Looking for someone to catch waves and sunsets with.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/1/Top%20Trendy%20Haircuts%20For%20Long%20Hair.jpg"
+      "clothingStyle": "Business Casual"
+    },
+    "interests": [
+      "Cooking",
+      "Wine tasting",
+      "Reading",
+      "Fitness",
+      "Business"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Cooking",
+        "Running",
+        "Wine appreciation"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/1/Top%20Trendy%20Haircuts%20For%20Long%20Hair.jpg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.8,
-         "serious":0.4,
-         "confident":0.8,
-         "gentle":0.7,
-         "adventurous":0.9,
-         "intellectual":0.5,
-         "humorous":0.8,
-         "dominantType":"Surfer Girl"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Blonde",
-         "eyeColor":"Blue",
-         "figureType":"Athletic",
-         "heightCm":166,
-         "specialFeatures":[
-            "Beach glow"
-         ],
-         "clothingStyle":"Beach Casual"
-      },
-      "interests":[
-         "Surfing",
-         "Beach volleyball",
-         "Swimming",
-         "Sunsets",
-         "Ocean life"
+      "favoriteTopics": [
+        "Business",
+        "Food",
+        "Career growth",
+        "Travel"
       ],
-      "languages":[
-         "English"
+      "dislikes": [
+        "Laziness",
+        "Poor planning",
+        "Unpunctuality"
       ],
-      "preferences":{
-         "hobbies":[
-            "Surfing",
-            "Beach activities",
-            "Sunset watching"
-         ],
-         "favoriteTopics":[
-            "Ocean",
-            "Surfing",
-            "Beach life",
-            "Nature"
-         ],
-         "dislikes":[
-            "Cold weather",
-            "Indoor activities",
-            "City life"
-         ],
-         "idealDateTypes":[
-            "Beach days",
-            "Surfing lessons",
-            "Sunset picnics"
-         ],
-         "communicationStyle":"Laid-back and sunny",
-         "relationshipGoals":[
-            "Beach lifestyle partner",
-            "Adventure and fun"
-         ]
-      },
-      "stats":{
-         "totalMatches":1450,
-         "totalConversations":980,
-         "averageRating":4.8,
-         "totalRatings":612,
-         "responseTimeMinutes":12,
-         "popularityTier":"Platinum"
-      },
-      "createdAt":"2025-11-08T09:00:00.000Z",
-      "lastActiveAt":"2025-12-17T17:35:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_014",
-      "name":"Nora",
-      "age":28,
-      "location":"Philadelphia, USA",
-      "bio":"History teacher with a passion for stories of the past. I believe understanding history helps us build a better future.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/Unknown.jpeg",
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/e190ab9cbd19f31cd500cd975068828d.jpg"
+      "idealDateTypes": [
+        "Fine dining",
+        "Wine bars",
+        "Professional networking events"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/Unknown.jpeg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.5,
-         "serious":0.8,
-         "confident":0.7,
-         "gentle":0.8,
-         "adventurous":0.6,
-         "intellectual":0.9,
-         "humorous":0.6,
-         "dominantType":"Educator"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Brown",
-         "eyeColor":"Brown",
-         "figureType":"Average",
-         "heightCm":165,
-         "specialFeatures":[
-            "Intelligent eyes"
-         ],
-         "clothingStyle":"Classic Professional"
-      },
-      "interests":[
-         "History",
-         "Museums",
-         "Reading",
-         "Teaching",
-         "Cultural events"
+      "communicationStyle": "Direct and articulate",
+      "relationshipGoals": [
+        "Partnership",
+        "Mutual growth"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1150,
+      "totalConversations": 820,
+      "averageRating": 4.7,
+      "totalRatings": 501,
+      "responseTimeMinutes": 18,
+      "popularityTier": "Platinum"
+    },
+    "createdAt": "2025-10-28T14:00:00.000Z",
+    "lastActiveAt": "2025-12-17T12:15:00.000Z",
+    "isOnline": false,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_003",
+    "name": "Ava",
+    "age": 23,
+    "location": "Austin, USA",
+    "bio": "Music lover and festival enthusiast. Life's too short for boring conversations. Let's dance in the rain and create memories.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/76eced3e5ae1fcc213f11cc4c0974013.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/a7044c63f6265db125f4550f6b938de1.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/76eced3e5ae1fcc213f11cc4c0974013.jpg",
+    "personality": {
+      "romantic": 0.7,
+      "playful": 0.9,
+      "serious": 0.3,
+      "confident": 0.8,
+      "gentle": 0.5,
+      "adventurous": 0.9,
+      "intellectual": 0.5,
+      "humorous": 0.9,
+      "dominantType": "Free Spirit"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Blonde",
+      "eyeColor": "Blue",
+      "figureType": "Petite",
+      "heightCm": 160,
+      "specialFeatures": [
+        "Bright smile"
       ],
-      "languages":[
-         "English",
-         "Latin"
+      "clothingStyle": "Festival Fashion"
+    },
+    "interests": [
+      "Music",
+      "Dancing",
+      "Festivals",
+      "Travel",
+      "Social media"
+    ],
+    "languages": [
+      "English"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Concert going",
+        "Dancing",
+        "Social events"
       ],
-      "preferences":{
-         "hobbies":[
-            "Reading history books",
-            "Museum visits",
-            "Historical documentaries"
-         ],
-         "favoriteTopics":[
-            "History",
-            "Culture",
-            "Education",
-            "Society"
-         ],
-         "dislikes":[
-            "Ignorance",
-            "Disrespect for history",
-            "Close-mindedness"
-         ],
-         "idealDateTypes":[
-            "Museum tours",
-            "Historical site visits",
-            "Book discussions"
-         ],
-         "communicationStyle":"Knowledgeable and patient",
-         "relationshipGoals":[
-            "Intellectual partnership",
-            "Shared learning"
-         ]
-      },
-      "stats":{
-         "totalMatches":950,
-         "totalConversations":710,
-         "averageRating":4.8,
-         "totalRatings":445,
-         "responseTimeMinutes":19,
-         "popularityTier":"Gold"
-      },
-      "createdAt":"2025-11-09T11:00:00.000Z",
-      "lastActiveAt":"2025-12-17T14:45:00.000Z",
-      "isOnline":false,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_015",
-      "name":"Ruby",
-      "age":25,
-      "location":"New Orleans, USA",
-      "bio":"Chef and food blogger. Life's too short for bad food. Let me cook for you and we'll create delicious memories together.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/f7dd539a5cb12c50a72041b664d37fc0.jpg"
+      "favoriteTopics": [
+        "Music",
+        "Entertainment",
+        "Travel",
+        "Social life"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/2/f7dd539a5cb12c50a72041b664d37fc0.jpg",
-      "personality":{
-         "romantic":0.8,
-         "playful":0.7,
-         "serious":0.6,
-         "confident":0.8,
-         "gentle":0.7,
-         "adventurous":0.7,
-         "intellectual":0.6,
-         "humorous":0.8,
-         "dominantType":"Culinary Artist"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Red",
-         "eyeColor":"Green",
-         "figureType":"Curvy",
-         "heightCm":164,
-         "specialFeatures":[
-            "Warm smile"
-         ],
-         "clothingStyle":"Casual Chic"
-      },
-      "interests":[
-         "Cooking",
-         "Food blogging",
-         "Wine",
-         "Restaurants",
-         "Culinary travel"
+      "dislikes": [
+        "Boredom",
+        "Staying indoors",
+        "Negativity"
       ],
-      "languages":[
-         "English",
-         "French"
+      "idealDateTypes": [
+        "Concert dates",
+        "Festival adventures",
+        "Beach parties"
       ],
-      "preferences":{
-         "hobbies":[
-            "Cooking",
-            "Recipe creation",
-            "Food photography"
-         ],
-         "favoriteTopics":[
-            "Food",
-            "Cooking techniques",
-            "Restaurants",
-            "Wine pairing"
-         ],
-         "dislikes":[
-            "Picky eaters",
-            "Fast food culture",
-            "Waste"
-         ],
-         "idealDateTypes":[
-            "Cooking together",
-            "Restaurant hopping",
-            "Food festivals"
-         ],
-         "communicationStyle":"Warm and flavorful",
-         "relationshipGoals":[
-            "Culinary partnership",
-            "Shared dining experiences"
-         ]
-      },
-      "stats":{
-         "totalMatches":1190,
-         "totalConversations":850,
-         "averageRating":4.9,
-         "totalRatings":523,
-         "responseTimeMinutes":11,
-         "popularityTier":"Platinum"
-      },
-      "createdAt":"2025-11-10T13:00:00.000Z",
-      "lastActiveAt":"2025-12-17T19:10:00.000Z",
-      "isOnline":true,
-      "isPremium":false
-   },
-   {
-      "id":"approving_girl_016",
-      "name":"Ivy",
-      "age":27,
-      "location":"Minneapolis, USA",
-      "bio":"Environmental scientist fighting for our planet. Passionate about sustainability and making a difference. Let's build a greener future together.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/76eced3e5ae1fcc213f11cc4c0974013.jpg"
+      "communicationStyle": "Energetic and fun",
+      "relationshipGoals": [
+        "Fun and spontaneity",
+        "Adventure partner"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1420,
+      "totalConversations": 950,
+      "averageRating": 4.6,
+      "totalRatings": 612,
+      "responseTimeMinutes": 8,
+      "popularityTier": "Platinum"
+    },
+    "createdAt": "2025-11-05T09:00:00.000Z",
+    "lastActiveAt": "2025-12-17T18:45:00.000Z",
+    "isOnline": true,
+    "isPremium": false
+  },
+  {
+    "id": "approving_girl_004",
+    "name": "Mia",
+    "age": 26,
+    "location": "Seattle, USA",
+    "bio": "Bookworm and coffee addict. I can spend hours in a bookstore or discussing the latest bestseller. Seeking someone who appreciates quiet moments.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/46e36ef7c1d2f2167ff058dd89480942.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/86082d870650a19923703e73d7f75022.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/e42c5d17cdd415a4e1aef42aca43d2a6.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/46e36ef7c1d2f2167ff058dd89480942.jpg",
+    "personality": {
+      "romantic": 0.8,
+      "playful": 0.4,
+      "serious": 0.7,
+      "confident": 0.6,
+      "gentle": 0.9,
+      "adventurous": 0.4,
+      "intellectual": 0.9,
+      "humorous": 0.5,
+      "dominantType": "Intellectual"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Dark Brown",
+      "eyeColor": "Green",
+      "figureType": "Average",
+      "heightCm": 166,
+      "specialFeatures": [
+        "Glasses"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/76eced3e5ae1fcc213f11cc4c0974013.jpg",
-      "personality":{
-         "romantic":0.6,
-         "playful":0.5,
-         "serious":0.8,
-         "confident":0.8,
-         "gentle":0.8,
-         "adventurous":0.7,
-         "intellectual":0.9,
-         "humorous":0.5,
-         "dominantType":"Environmentalist"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Light Brown",
-         "eyeColor":"Green",
-         "figureType":"Slim",
-         "heightCm":166,
-         "specialFeatures":[
-            "Natural beauty"
-         ],
-         "clothingStyle":"Eco-Friendly"
-      },
-      "interests":[
-         "Environmentalism",
-         "Sustainability",
-         "Nature",
-         "Science",
-         "Activism"
+      "clothingStyle": "Cozy Casual"
+    },
+    "interests": [
+      "Reading",
+      "Writing",
+      "Coffee",
+      "Libraries",
+      "Poetry"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Book clubs"
       ],
-      "languages":[
-         "English",
-         "Swedish"
+      "favoriteTopics": [
+        "Literature",
+        "Philosophy",
+        "History",
+        "Writing"
       ],
-      "preferences":{
-         "hobbies":[
-            "Environmental activism",
-            "Research",
-            "Eco-friendly living"
-         ],
-         "favoriteTopics":[
-            "Environment",
-            "Climate change",
-            "Sustainability",
-            "Conservation"
-         ],
-         "dislikes":[
-            "Waste",
-            "Pollution",
-            "Environmental ignorance"
-         ],
-         "idealDateTypes":[
-            "Nature hikes",
-            "Eco-friendly events",
-            "Volunteer activities"
-         ],
-         "communicationStyle":"Passionate and informed",
-         "relationshipGoals":[
-            "Shared values",
-            "Making a difference together"
-         ]
-      },
-      "stats":{
-         "totalMatches":890,
-         "totalConversations":670,
-         "averageRating":4.8,
-         "totalRatings":401,
-         "responseTimeMinutes":16,
-         "popularityTier":"Gold"
-      },
-      "createdAt":"2025-11-11T10:00:00.000Z",
-      "lastActiveAt":"2025-12-17T11:30:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_017",
-      "name":"Aurora",
-      "age":24,
-      "location":"Salt Lake City, USA",
-      "bio":"Travel blogger exploring the world one city at a time. I collect memories, not things. Join me on this beautiful journey.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/a7044c63f6265db125f4550f6b938de1.jpg"
+      "dislikes": [
+        "Loud places",
+        "Superficiality",
+        "Crowds"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/3/a7044c63f6265db125f4550f6b938de1.jpg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.8,
-         "serious":0.5,
-         "confident":0.8,
-         "gentle":0.7,
-         "adventurous":0.95,
-         "intellectual":0.7,
-         "humorous":0.8,
-         "dominantType":"Wanderer"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Blonde",
-         "eyeColor":"Blue",
-         "figureType":"Slim",
-         "heightCm":168,
-         "specialFeatures":[
-            "Adventurous spirit"
-         ],
-         "clothingStyle":"Travel Chic"
-      },
-      "interests":[
-         "Travel",
-         "Photography",
-         "Blogging",
-         "Culture",
-         "Adventure"
+      "idealDateTypes": [
+        "Bookstore browsing",
+        "Coffee shop dates",
+        "Library visits"
       ],
-      "languages":[
-         "English",
-         "Spanish",
-         "Italian"
+      "communicationStyle": "Thoughtful and deep",
+      "relationshipGoals": [
+        "Intellectual connection",
+        "Long-term relationship"
+      ]
+    },
+    "stats": {
+      "totalMatches": 890,
+      "totalConversations": 670,
+      "averageRating": 4.9,
+      "totalRatings": 398,
+      "responseTimeMinutes": 20,
+      "popularityTier": "Gold"
+    },
+    "createdAt": "2025-10-30T11:00:00.000Z",
+    "lastActiveAt": "2025-12-17T14:20:00.000Z",
+    "isOnline": true,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_005",
+    "name": "Charlotte",
+    "age": 29,
+    "location": "Boston, USA",
+    "bio": "Fitness enthusiast and wellness coach. I believe in living a balanced life. Looking for someone to share healthy habits and life goals with.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2045e8a4a7e9080848a63f3b02b2ae18.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2a186e0d4f1a2e1a4b9e895965de6797.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/f3f3ed4939adcef82f3b29aa12178110.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2045e8a4a7e9080848a63f3b02b2ae18.jpg",
+    "personality": {
+      "romantic": 0.6,
+      "playful": 0.6,
+      "serious": 0.7,
+      "confident": 0.9,
+      "gentle": 0.7,
+      "adventurous": 0.7,
+      "intellectual": 0.7,
+      "humorous": 0.6,
+      "dominantType": "Health Conscious"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Auburn",
+      "eyeColor": "Brown",
+      "figureType": "Athletic",
+      "heightCm": 170,
+      "specialFeatures": [
+        "Toned physique"
       ],
-      "preferences":{
-         "hobbies":[
-            "Travel blogging",
-            "Photography",
-            "Exploring new places"
-         ],
-         "favoriteTopics":[
-            "Travel",
-            "Culture",
-            "Adventure",
-            "Photography"
-         ],
-         "dislikes":[
-            "Staying in one place",
-            "Routine",
-            "Closed borders"
-         ],
-         "idealDateTypes":[
-            "City exploration",
-            "Cultural experiences",
-            "Adventure travel"
-         ],
-         "communicationStyle":"Adventurous and worldly",
-         "relationshipGoals":[
-            "Travel companion",
-            "Shared adventures"
-         ]
-      },
-      "stats":{
-         "totalMatches":1380,
-         "totalConversations":950,
-         "averageRating":4.7,
-         "totalRatings":589,
-         "responseTimeMinutes":13,
-         "popularityTier":"Platinum"
-      },
-      "createdAt":"2025-11-12T09:00:00.000Z",
-      "lastActiveAt":"2025-12-17T16:55:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_018",
-      "name":"Violet",
-      "age":26,
-      "location":"Tampa, USA",
-      "bio":"Veterinarian with a heart for all creatures. Animals are my passion and caring for them is my calling. Looking for someone kind-hearted.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/46e36ef7c1d2f2167ff058dd89480942.jpg",
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/86082d870650a19923703e73d7f75022.jpg"
+      "clothingStyle": "Athletic Wear"
+    },
+    "interests": [
+      "Fitness",
+      "Yoga",
+      "Nutrition",
+      "Running",
+      "Wellness"
+    ],
+    "languages": [
+      "English"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Working out",
+        "Meal prepping",
+        "Hiking"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/46e36ef7c1d2f2167ff058dd89480942.jpg",
-      "personality":{
-         "romantic":0.8,
-         "playful":0.7,
-         "serious":0.7,
-         "confident":0.7,
-         "gentle":0.95,
-         "adventurous":0.6,
-         "intellectual":0.8,
-         "humorous":0.6,
-         "dominantType":"Caregiver"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Brown",
-         "eyeColor":"Brown",
-         "figureType":"Average",
-         "heightCm":165,
-         "specialFeatures":[
-            "Kind eyes"
-         ],
-         "clothingStyle":"Casual Comfortable"
-      },
-      "interests":[
-         "Animals",
-         "Veterinary medicine",
-         "Pet care",
-         "Nature",
-         "Volunteering"
+      "favoriteTopics": [
+        "Health",
+        "Fitness",
+        "Nutrition",
+        "Self-improvement"
       ],
-      "languages":[
-         "English"
+      "dislikes": [
+        "Unhealthy habits",
+        "Excuses",
+        "Laziness"
       ],
-      "preferences":{
-         "hobbies":[
-            "Animal rescue",
-            "Pet training",
-            "Nature walks"
-         ],
-         "favoriteTopics":[
-            "Animals",
-            "Veterinary care",
-            "Animal welfare",
-            "Nature"
-         ],
-         "dislikes":[
-            "Animal cruelty",
-            "Neglect",
-            "Unkindness"
-         ],
-         "idealDateTypes":[
-            "Dog park visits",
-            "Animal shelter volunteering",
-            "Nature hikes with pets"
-         ],
-         "communicationStyle":"Compassionate and caring",
-         "relationshipGoals":[
-            "Kindness and empathy",
-            "Shared love for animals"
-         ]
-      },
-      "stats":{
-         "totalMatches":1020,
-         "totalConversations":760,
-         "averageRating":4.9,
-         "totalRatings":478,
-         "responseTimeMinutes":15,
-         "popularityTier":"Gold"
-      },
-      "createdAt":"2025-11-13T12:00:00.000Z",
-      "lastActiveAt":"2025-12-17T13:40:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   },
-   {
-      "id":"approving_girl_019",
-      "name":"Jade",
-      "age":25,
-      "location":"Charlotte, USA",
-      "bio":"Interior designer making spaces beautiful. I believe your environment shapes your life. Let's create something beautiful together.",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/e42c5d17cdd415a4e1aef42aca43d2a6.jpg"
+      "idealDateTypes": [
+        "Morning runs",
+        "Healthy cooking classes",
+        "Outdoor activities"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/4/e42c5d17cdd415a4e1aef42aca43d2a6.jpg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.7,
-         "serious":0.6,
-         "confident":0.8,
-         "gentle":0.7,
-         "adventurous":0.6,
-         "intellectual":0.7,
-         "humorous":0.7,
-         "dominantType":"Designer"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Blonde",
-         "eyeColor":"Blue",
-         "figureType":"Slim",
-         "heightCm":167,
-         "specialFeatures":[
-            "Elegant style"
-         ],
-         "clothingStyle":"Sophisticated"
-      },
-      "interests":[
-         "Interior design",
-         "Architecture",
-         "Art",
-         "Furniture",
-         "Home decor"
+      "communicationStyle": "Motivational and direct",
+      "relationshipGoals": [
+        "Healthy lifestyle partner",
+        "Mutual motivation"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1080,
+      "totalConversations": 780,
+      "averageRating": 4.8,
+      "totalRatings": 467,
+      "responseTimeMinutes": 14,
+      "popularityTier": "Gold"
+    },
+    "createdAt": "2025-10-26T13:00:00.000Z",
+    "lastActiveAt": "2025-12-17T07:30:00.000Z",
+    "isOnline": false,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_006",
+    "name": "Amelia",
+    "age": 24,
+    "location": "Portland, USA",
+    "bio": "Artist and nature lover. I find inspiration in the simple things. Let's explore trails, paint sunsets, and talk about what makes us feel alive.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/6/072a6dca7aeeca156215ae9fdefeaaaf.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/6/12f08cb0ff3f316fddf1fab053ff742d.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/6/ff57703f32244a0de1d253ee1aa6d943.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/6/072a6dca7aeeca156215ae9fdefeaaaf.jpg",
+    "personality": {
+      "romantic": 0.8,
+      "playful": 0.7,
+      "serious": 0.5,
+      "confident": 0.7,
+      "gentle": 0.9,
+      "adventurous": 0.8,
+      "intellectual": 0.7,
+      "humorous": 0.6,
+      "dominantType": "Nature Lover"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Light Brown",
+      "eyeColor": "Blue",
+      "figureType": "Slim",
+      "heightCm": 164,
+      "specialFeatures": [
+        "Natural beauty"
       ],
-      "languages":[
-         "English",
-         "Italian"
+      "clothingStyle": "Earthy Tones"
+    },
+    "interests": [
+      "Painting",
+      "Hiking",
+      "Photography",
+      "Gardening",
+      "Nature"
+    ],
+    "languages": [
+      "English"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Watercolor painting",
+        "Nature walks",
+        "Gardening"
       ],
-      "preferences":{
-         "hobbies":[
-            "Home decorating",
-            "Furniture shopping",
-            "Design projects"
-         ],
-         "favoriteTopics":[
-            "Design",
-            "Architecture",
-            "Art",
-            "Aesthetics"
-         ],
-         "dislikes":[
-            "Clutter",
-            "Poor design",
-            "Lack of style"
-         ],
-         "idealDateTypes":[
-            "Home decor shopping",
-            "Art galleries",
-            "Design exhibitions"
-         ],
-         "communicationStyle":"Creative and aesthetic",
-         "relationshipGoals":[
-            "Creative partnership",
-            "Building a beautiful life"
-         ]
-      },
-      "stats":{
-         "totalMatches":1110,
-         "totalConversations":810,
-         "averageRating":4.7,
-         "totalRatings":501,
-         "responseTimeMinutes":14,
-         "popularityTier":"Gold"
-      },
-      "createdAt":"2025-11-14T10:00:00.000Z",
-      "lastActiveAt":"2025-12-17T15:25:00.000Z",
-      "isOnline":false,
-      "isPremium":false
-   },
-   {
-      "id":"approving_girl_020",
-      "name":"Stella",
-      "age":27,
-      "location":"Dallas, USA",
-      "bio":"Marketing director and social butterfly. I love connecting people and creating memorable experiences. Let's network and have fun!",
-      "imageUrls":[
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2045e8a4a7e9080848a63f3b02b2ae18.jpg",
-         "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2a186e0d4f1a2e1a4b9e895965de6797.jpg"
+      "favoriteTopics": [
+        "Art",
+        "Nature",
+        "Environment",
+        "Creativity"
       ],
-      "profileImageUrl":"https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/5/2045e8a4a7e9080848a63f3b02b2ae18.jpg",
-      "personality":{
-         "romantic":0.7,
-         "playful":0.8,
-         "serious":0.7,
-         "confident":0.9,
-         "gentle":0.6,
-         "adventurous":0.8,
-         "intellectual":0.8,
-         "humorous":0.8,
-         "dominantType":"Socialite"
-      },
-      "physicalTraits":{
-         "ethnicity":"Caucasian",
-         "hairColor":"Blonde",
-         "eyeColor":"Blue",
-         "figureType":"Slim",
-         "heightCm":169,
-         "specialFeatures":[
-            "Charismatic presence"
-         ],
-         "clothingStyle":"Business Chic"
-      },
-      "interests":[
-         "Marketing",
-         "Networking",
-         "Events",
-         "Social media",
-         "Business"
+      "dislikes": [
+        "City noise",
+        "Pollution",
+        "Artificial things"
       ],
-      "languages":[
-         "English",
-         "Spanish"
+      "idealDateTypes": [
+        "Nature hikes",
+        "Painting outdoors",
+        "Farmers market visits"
       ],
-      "preferences":{
-         "hobbies":[
-            "Event planning",
-            "Networking",
-            "Social gatherings"
-         ],
-         "favoriteTopics":[
-            "Marketing",
-            "Business",
-            "Social trends",
-            "Events"
-         ],
-         "dislikes":[
-            "Antisocial behavior",
-            "Poor communication",
-            "Missed opportunities"
-         ],
-         "idealDateTypes":[
-            "Networking events",
-            "Social gatherings",
-            "Upscale restaurants"
-         ],
-         "communicationStyle":"Charismatic and engaging",
-         "relationshipGoals":[
-            "Power couple",
-            "Social partnership"
-         ]
-      },
-      "stats":{
-         "totalMatches":1420,
-         "totalConversations":980,
-         "averageRating":4.6,
-         "totalRatings":612,
-         "responseTimeMinutes":9,
-         "popularityTier":"Platinum"
-      },
-      "createdAt":"2025-11-15T14:00:00.000Z",
-      "lastActiveAt":"2025-12-17T18:50:00.000Z",
-      "isOnline":true,
-      "isPremium":true
-   }
+      "communicationStyle": "Peaceful and genuine",
+      "relationshipGoals": [
+        "Authentic connection",
+        "Shared values"
+      ]
+    },
+    "stats": {
+      "totalMatches": 920,
+      "totalConversations": 690,
+      "averageRating": 4.8,
+      "totalRatings": 421,
+      "responseTimeMinutes": 16,
+      "popularityTier": "Gold"
+    },
+    "createdAt": "2025-11-02T10:00:00.000Z",
+    "lastActiveAt": "2025-12-17T15:40:00.000Z",
+    "isOnline": true,
+    "isPremium": false
+  },
+  {
+    "id": "approving_girl_007",
+    "name": "Harper",
+    "age": 28,
+    "location": "Denver, USA",
+    "bio": "Adventure seeker and mountain enthusiast. Life is meant to be lived to the fullest. Let's chase sunrises and create unforgettable stories.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/7/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/7/093894f84f4d7b6884a210d7bfbabd19.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/7/8e637772400772d003fa46d0f797815d.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/7/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+    "personality": {
+      "romantic": 0.7,
+      "playful": 0.8,
+      "serious": 0.5,
+      "confident": 0.9,
+      "gentle": 0.5,
+      "adventurous": 0.95,
+      "intellectual": 0.6,
+      "humorous": 0.8,
+      "dominantType": "Adventurer"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Blonde",
+      "eyeColor": "Blue",
+      "figureType": "Athletic",
+      "heightCm": 168,
+      "specialFeatures": [
+        "Sun-kissed skin"
+      ],
+      "clothingStyle": "Outdoor Casual"
+    },
+    "interests": [
+      "Mountain climbing",
+      "Skiing",
+      "Camping",
+      "Photography",
+      "Travel"
+    ],
+    "languages": [
+      "English",
+      "Italian"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Rock climbing",
+        "Skiing",
+        "Backpacking"
+      ],
+      "favoriteTopics": [
+        "Adventure",
+        "Travel",
+        "Outdoor sports",
+        "Nature"
+      ],
+      "dislikes": [
+        "Staying still",
+        "Indoor activities",
+        "Routine"
+      ],
+      "idealDateTypes": [
+        "Mountain hiking",
+        "Camping trips",
+        "Skiing adventures"
+      ],
+      "communicationStyle": "Bold and enthusiastic",
+      "relationshipGoals": [
+        "Adventure partner",
+        "Shared experiences"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1290,
+      "totalConversations": 880,
+      "averageRating": 4.7,
+      "totalRatings": 534,
+      "responseTimeMinutes": 13,
+      "popularityTier": "Platinum"
+    },
+    "createdAt": "2025-10-27T12:00:00.000Z",
+    "lastActiveAt": "2025-12-17T17:10:00.000Z",
+    "isOnline": true,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_008",
+    "name": "Evelyn",
+    "age": 26,
+    "location": "San Francisco, USA",
+    "bio": "Tech enthusiast and startup junkie. I love innovation and discussing the future. Looking for someone who shares my passion for technology.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/8/0e790b3ff338fb4b1a4016043331820b.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/8/7db39071933c716f5222ef5c57217636.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/8/c4380fc357aa1de752dd6e849649d65c.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/8/0e790b3ff338fb4b1a4016043331820b.jpg",
+    "personality": {
+      "romantic": 0.6,
+      "playful": 0.7,
+      "serious": 0.8,
+      "confident": 0.9,
+      "gentle": 0.6,
+      "adventurous": 0.7,
+      "intellectual": 0.95,
+      "humorous": 0.7,
+      "dominantType": "Tech Savvy"
+    },
+    "physicalTraits": {
+      "ethnicity": "Asian",
+      "hairColor": "Black",
+      "eyeColor": "Brown",
+      "figureType": "Slim",
+      "heightCm": 163,
+      "specialFeatures": [
+        "Modern style"
+      ],
+      "clothingStyle": "Tech Casual"
+    },
+    "interests": [
+      "Technology",
+      "Startups",
+      "Coding",
+      "Innovation",
+      "AI"
+    ],
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Coding",
+        "Attending tech conferences",
+        "Reading tech blogs"
+      ],
+      "favoriteTopics": [
+        "Technology",
+        "Innovation",
+        "Startups",
+        "Future trends"
+      ],
+      "dislikes": [
+        "Technophobia",
+        "Resistance to change",
+        "Outdated thinking"
+      ],
+      "idealDateTypes": [
+        "Tech meetups",
+        "Hackathons",
+        "Innovation workshops"
+      ],
+      "communicationStyle": "Smart and forward-thinking",
+      "relationshipGoals": [
+        "Intellectual partnership",
+        "Shared innovation"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1050,
+      "totalConversations": 760,
+      "averageRating": 4.7,
+      "totalRatings": 478,
+      "responseTimeMinutes": 10,
+      "popularityTier": "Gold"
+    },
+    "createdAt": "2025-11-03T09:00:00.000Z",
+    "lastActiveAt": "2025-12-17T13:25:00.000Z",
+    "isOnline": true,
+    "isPremium": true
+  },
+  {
+    "id": "approving_girl_009",
+    "name": "Luna",
+    "age": 25,
+    "location": "Nashville, USA",
+    "bio": "Singer-songwriter with a guitar always by my side. Music is my language. Let's write our own soundtrack to life together.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/9/0d8ccf64608e5f3cb823f441d319ced0.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/9/6c3b2502d93c86d3c8eb77ccd33f584b.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/9/c174499422a41ea04d0d56923951375f.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/9/0d8ccf64608e5f3cb823f441d319ced0.jpg",
+    "personality": {
+      "romantic": 0.9,
+      "playful": 0.7,
+      "serious": 0.5,
+      "confident": 0.8,
+      "gentle": 0.8,
+      "adventurous": 0.7,
+      "intellectual": 0.6,
+      "humorous": 0.7,
+      "dominantType": "Artist"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Dark Brown",
+      "eyeColor": "Blue",
+      "figureType": "Slim",
+      "heightCm": 165,
+      "specialFeatures": [
+        "Expressive eyes"
+      ],
+      "clothingStyle": "Vintage Bohemian"
+    },
+    "interests": [
+      "Music",
+      "Singing",
+      "Guitar",
+      "Songwriting",
+      "Performing"
+    ],
+    "languages": [
+      "English"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Writing songs",
+        "Playing guitar",
+        "Open mic nights"
+      ],
+      "favoriteTopics": [
+        "Music",
+        "Lyrics",
+        "Emotions",
+        "Creativity"
+      ],
+      "dislikes": [
+        "Tone deafness",
+        "Loud conversations",
+        "Dishonesty"
+      ],
+      "idealDateTypes": [
+        "Live music venues",
+        "Acoustic sessions",
+        "Songwriting together"
+      ],
+      "communicationStyle": "Poetic and heartfelt",
+      "relationshipGoals": [
+        "Emotional harmony",
+        "Creative partnership"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1180,
+      "totalConversations": 840,
+      "averageRating": 4.9,
+      "totalRatings": 512,
+      "responseTimeMinutes": 11,
+      "popularityTier": "Platinum"
+    },
+    "createdAt": "2025-11-04T11:00:00.000Z",
+    "lastActiveAt": "2025-12-17T19:00:00.000Z",
+    "isOnline": true,
+    "isPremium": false
+  },
+  {
+    "id": "approving_girl_010",
+    "name": "Scarlett",
+    "age": 27,
+    "location": "Las Vegas, USA",
+    "bio": "Fashion designer and style icon. I believe life is a runway and every day is a chance to express yourself. Let's create something beautiful together.",
+    "imageUrls": [
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/4c3744a6699b4774db52eb4a5a7592a6.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/9c7594cce39b60684098bcc4203b3fb0.jpg",
+      "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/f41eb1dcaa61d48d98c9ae677b8e8c62.jpg"
+    ],
+    "profileImageUrl": "https://github.com/mrboggyman16/mrboggyman16.github.io/raw/master/ai-meet-hanzla-25/approving_girl_images/10/4c3744a6699b4774db52eb4a5a7592a6.jpg",
+    "personality": {
+      "romantic": 0.7,
+      "playful": 0.8,
+      "serious": 0.6,
+      "confident": 0.95,
+      "gentle": 0.6,
+      "adventurous": 0.8,
+      "intellectual": 0.7,
+      "humorous": 0.7,
+      "dominantType": "Fashionista"
+    },
+    "physicalTraits": {
+      "ethnicity": "Caucasian",
+      "hairColor": "Red",
+      "eyeColor": "Green",
+      "figureType": "Model",
+      "heightCm": 172,
+      "specialFeatures": [
+        "Striking features"
+      ],
+      "clothingStyle": "High Fashion"
+    },
+    "interests": [
+      "Fashion",
+      "Design",
+      "Shopping",
+      "Photography",
+      "Travel"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "preferences": {
+      "hobbies": [
+        "Fashion design",
+        "Shopping",
+        "Attending fashion shows"
+      ],
+      "favoriteTopics": [
+        "Fashion",
+        "Design",
+        "Style",
+        "Trends"
+      ],
+      "dislikes": [
+        "Poor fashion sense",
+        "Lack of style",
+        "Boring outfits"
+      ],
+      "idealDateTypes": [
+        "Fashion shows",
+        "Art galleries",
+        "Upscale restaurants"
+      ],
+      "communicationStyle": "Stylish and confident",
+      "relationshipGoals": [
+        "Glamorous partnership",
+        "Style compatibility"
+      ]
+    },
+    "stats": {
+      "totalMatches": 1560,
+      "totalConversations": 1020,
+      "averageRating": 4.6,
+      "totalRatings": 678,
+      "responseTimeMinutes": 9,
+      "popularityTier": "Platinum"
+    },
+    "createdAt": "2025-10-29T15:00:00.000Z",
+    "lastActiveAt": "2025-12-17T16:50:00.000Z",
+    "isOnline": true,
+    "isPremium": true
+  }
 ]
