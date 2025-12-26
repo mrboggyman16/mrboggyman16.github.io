@@ -1,43 +1,150 @@
 {
   "approving": [
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_1.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_2.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_3.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_4.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_5.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_6.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_7.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_8.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_9.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_10.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_11.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_12.png"
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_1.png",
+      "message": "Girls bikini suit"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_2.png",
+      "message": "girl bra and under wear"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_3.png",
+      "message": "red lips with live emojis"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_4.png",
+      "message": "beautiful date dress"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_5.png",
+      "message": "shoes of red color with heals"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_6.png",
+      "message": "Girl and boy kissing image gift"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_7.png",
+      "message": "passing hearts kiss"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_8.png",
+      "message": "girl lips with love you message"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_9.png",
+      "message": "Kiss me messaged with lips in red color"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_10.png",
+      "message": "heart lolly pop"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_11.png",
+      "message": "girls pink color sleepers"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/approving_12.png",
+      "message": "two hearts with best friend message"
+    }
   ],
   "simple": [
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/1.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/2.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/3.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/4.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/5.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/6.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/7.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/8.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/9.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/10.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/11.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/12.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/13.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/14.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/15.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/16.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/17.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/18.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/19.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/20.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/21.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/22.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/23.png",
-    "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/24.png"
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/1.png",
+      "message": "With gift of bunch of flowers."
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/2.png",
+      "message": "Pink shape heart"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/3.png",
+      "message": "heart with arrow in it in pink color"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/4.png",
+      "message": "heart with arrow in it in red color"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/5.png",
+      "message": "This is my way of saying thank you!"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/6.png",
+      "message": "diamond ring with gold"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/7.png",
+      "message": "diamond ring in pink theme"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/8.png",
+      "message": "diamond ring with extra shaped box"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/9.png",
+      "message": "wedding ring"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/10.png",
+      "message": "giving wedding ring with its box open"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/11.png",
+      "message": "giving wedding ring with its box open with good box"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/12.png",
+      "message": "A gift as love letter"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/13.png",
+      "message": "I hope this brings you happiness!"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/14.png",
+      "message": "Just a token of my appreciation!"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/15.png",
+      "message": "Yellow card love letter"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/16.png",
+      "message": "Yellow gift box"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/17.png",
+      "message": "beautiful gift box"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/18.png",
+      "message": "gift box with hearts"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/19.png",
+      "message": "red color heart"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/20.png",
+      "message": "Pink heart with arrow in it"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/21.png",
+      "message": "Green color heart"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/22.png",
+      "message": "love letter with red rose"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/23.png",
+      "message": "red rose"
+    },
+    {
+      "image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/gifts/24.png",
+      "message": "red rose with bright shine"
+    }
   ]
 }
-
