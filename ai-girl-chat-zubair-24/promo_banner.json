@@ -56,6 +56,7 @@
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "bottom",
+        "bannerPosition": 21,
         "height": 100,
         "aspectRatio": 3.2,
         "backgroundColor": "#000000",
