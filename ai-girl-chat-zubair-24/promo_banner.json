@@ -20,6 +20,7 @@
     "banners": [
       {
         "id": "home_top_banner",
+        "enabled": true,
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "top",
@@ -35,6 +36,7 @@
       },
       {
         "id": "coins_screen_banner",
+        "enabled": true,
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "middle",
@@ -50,6 +52,7 @@
       },
       {
         "id": "chat_bottom_banner",
+        "enabled": true,
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "bottom",
@@ -65,6 +68,7 @@
       }
     ],
     "defaultBanner": {
+      "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
       "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
       "height": 90,
