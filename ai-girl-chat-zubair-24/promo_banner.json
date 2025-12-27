@@ -14,6 +14,64 @@
       "clickEvent": "promo_banner_click",
       "closeEvent": "promo_banner_close"
     }
+  },
+  "bannerAds": {
+    "enabled": true,
+    "banners": [
+      {
+        "id": "home_top_banner",
+        "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
+        "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
+        "position": "top",
+        "height": 90,
+        "aspectRatio": 8.09,
+        "backgroundColor": "#FFFFFF",
+        "clickable": true,
+        "showCloseButton": false,
+        "analytics": {
+          "impressionEvent": "banner_impression",
+          "clickEvent": "banner_click"
+        }
+      },
+      {
+        "id": "coins_screen_banner",
+        "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
+        "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
+        "position": "middle",
+        "height": 50,
+        "aspectRatio": 6.4,
+        "backgroundColor": "#F5F5F5",
+        "clickable": true,
+        "showCloseButton": false,
+        "analytics": {
+          "impressionEvent": "coins_banner_impression",
+          "clickEvent": "coins_banner_click"
+        }
+      },
+      {
+        "id": "chat_bottom_banner",
+        "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
+        "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
+        "position": "bottom",
+        "height": 100,
+        "aspectRatio": 3.2,
+        "backgroundColor": "#000000",
+        "clickable": true,
+        "showCloseButton": true,
+        "analytics": {
+          "impressionEvent": "chat_banner_impression",
+          "clickEvent": "chat_banner_click"
+        }
+      }
+    ],
+    "defaultBanner": {
+      "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
+      "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
+      "height": 90,
+      "aspectRatio": 8.09,
+      "backgroundColor": "#F0F0F0",
+      "clickable": false,
+      "showCloseButton": false
+    }
   }
 }
-
