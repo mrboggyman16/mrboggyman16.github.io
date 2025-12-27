@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "banner": {
+    "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Alice/0001.jpeg",
+    "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
+    "showInterval": 3,
+    "size": {
+      "width": 0.9,
+      "height": 0.7
+    },
+    "closeButtonDelay": 3,
+    "analytics": {
+      "impressionEvent": "promo_banner_impression",
+      "clickEvent": "promo_banner_click",
+      "closeEvent": "promo_banner_close"
+    }
+  }
+}
+
