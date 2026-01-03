@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "banner": {
     "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Alice/0001.jpeg",
     "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
@@ -16,7 +16,7 @@
     }
   },
   "bannerAds": {
-    "enabled": true,
+    "enabled": false,
     "banners": [
       {
         "id": "home_top_banner",
@@ -36,7 +36,7 @@
       },
       {
         "id": "coins_screen_banner",
-        "enabled": true,
+        "enabled": false,
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "middle",
@@ -44,7 +44,7 @@
         "aspectRatio": 6.4,
         "backgroundColor": "#F5F5F5",
         "clickable": true,
-        "showCloseButton": false,
+        "showCloseButton": true,
         "analytics": {
           "impressionEvent": "coins_banner_impression",
           "clickEvent": "coins_banner_click"
@@ -52,7 +52,7 @@
       },
       {
         "id": "chat_bottom_banner",
-        "enabled": true,
+        "enabled": false,
         "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
         "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
         "position": "bottom",
@@ -69,7 +69,7 @@
       }
     ],
     "defaultBanner": {
-      "enabled": true,
+      "enabled": false,
       "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/Small_Banner/sample_banner.jpg",
       "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
       "height": 90,
