@@ -5,14 +5,14 @@
     "show_premium_prompt_after_limit": true
   },
   "notification_timing": {
-    "first_notification_delay_seconds": 12,
-    "min_active_interval_early_minutes": 3,
-    "max_active_interval_early_minutes": 6,
+    "first_notification_delay_seconds": 10,
+    "min_active_interval_early_minutes": 1,
+    "max_active_interval_early_minutes": 1,
     "min_active_interval_later_minutes": 5,
     "max_active_interval_later_minutes": 8,
     "min_inactive_interval_minutes": 8,
     "max_inactive_interval_minutes": 15,
-    "early_notification_threshold": 3
+    "early_notification_threshold": 4
   },
   "feature_flags": {
     "enable_swipe_limit": true,
@@ -20,4 +20,3 @@
     "enable_auto_cleanup": true
   }
 }
-
