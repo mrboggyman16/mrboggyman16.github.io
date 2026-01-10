@@ -22,5 +22,10 @@
   "default_images": {
     "shop_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
     "subscription_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg"
+  },
+  "credit_packs": {
+    "small_pack": 60,
+    "medium_pack": 180,
+    "large_pack": 300
   }
 }
