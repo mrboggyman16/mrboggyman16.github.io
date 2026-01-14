@@ -80,6 +80,191 @@
       "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
       "ttsVoice": "shimmer"
     },
+     {
+      "id": 13003,
+      "aboutMe": {
+        "name": "Lucia",
+        "height": 64,
+        "drinkingStatus": "sober",
+        "gender": "female",
+        "description": "Green warrior who adores sustainability and gardening.",
+        "age": 25,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "ethicalNonMonogamy",
+        "casualDates"
+      ],
+      "userInterests": [
+        "eco",
+        "gardening",
+        "hiking"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+      ],
+      "location": "Portland",
+      "backStory": "Nature is home, and love should feel like a peaceful forest.",
+      "ttsVoice": "nova"
+    },
+    {
+      "id": 13001,
+      "aboutMe": {
+        "name": "Ivana",
+        "height": 63,
+        "drinkingStatus": "dontDrink",
+        "gender": "female",
+        "description": "A programmer who loves puzzles and sci-fi movies.",
+        "age": 26,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "intimacyWithoutCommitment",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "tech",
+        "sciFi",
+        "comics"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
+      ],
+      "location": "Seattle",
+      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
+      "ttsVoice": "fable"
+    },
+     {
+      "id": 13005,
+      "aboutMe": {
+        "name": "Syndy",
+        "height": 68,
+        "drinkingStatus": "drinkSometimes",
+        "gender": "female",
+        "description": "Festival lover with a passion for fire dancing.",
+        "age": 26,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "casualDates",
+        "intimacyWithoutCommitment"
+      ],
+      "userInterests": [
+        "fest",
+        "dancing",
+        "comedy"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0005.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0005.jpeg"
+      ],
+      "location": "Austin",
+      "backStory": "Glowing soul who dances where the music lives.",
+      "ttsVoice": "shimmer"
+    },
+      {
+      "id": 13007,
+      "aboutMe": {
+        "name": "Yumi",
+        "height": 69,
+        "drinkingStatus": "drink",
+        "gender": "female",
+        "description": "Futurist thinker and part-time DJ.",
+        "age": 27,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "intimacyWithoutCommitment",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "music",
+        "tech",
+        "fest"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0005.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0005.jpeg"
+      ],
+      "location": "Las Vegas",
+      "backStory": "Looking to vibe with curious minds and electric hearts.",
+      "ttsVoice": "sage"
+    },
+     {
+      "id": 13011,
+      "aboutMe": {
+        "name": "Mini",
+        "height": 63,
+        "drinkingStatus": "dontDrink",
+        "gender": "female",
+        "description": "A programmer who loves puzzles and sci-fi movies.",
+        "age": 26,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "casualDates",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "tech",
+        "sciFi",
+        "comics"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0004.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0004.jpeg"
+      ],
+      "location": "Seattle",
+      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
+      "ttsVoice": "shimmer"
+    },
     {
       "id": 2847,
       "aboutMe": {
