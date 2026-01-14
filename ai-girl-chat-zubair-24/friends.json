@@ -42,115 +42,47 @@
       "ttsVoice": "nova"
     },
     {
-      "id": 7154,
+      "id": 3592,
       "aboutMe": {
-        "name": "Luna",
-        "height": 63,
+        "name": "Bryn",
+        "height": 66,
         "drinkingStatus": "drinkSometimes",
         "gender": "female",
-        "description": "Mystical astrologer and tarot reader who guides souls on their journey.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": false
+        "description": "Adventure photographer capturing stunning landscapes around the globe.",
+        "age": 27,
+        "openToKidsStatus": true,
+        "gymStatus": true
       },
       "datingPreferences": [
         "casualDates",
         "longTermRelationship"
       ],
       "userInterests": [
-        "yoga",
-        "art",
-        "music"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
-      ],
-      "location": "Santa Fe",
-      "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
-      "ttsVoice": "shimmer"
-    },
-     {
-      "id": 13003,
-      "aboutMe": {
-        "name": "Lucia",
-        "height": 64,
-        "drinkingStatus": "sober",
-        "gender": "female",
-        "description": "Green warrior who adores sustainability and gardening.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "ethicalNonMonogamy",
-        "casualDates"
-      ],
-      "userInterests": [
-        "eco",
-        "gardening",
+        "photo",
+        "travel",
         "hiking"
       ],
       "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/2398d9aad2e6c5b1e0f56dcb818c21f6.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/4580ad05e484a5798b6ed9c66e0ce264.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/61161682e21a99638f0e626f1bc087c1.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/649daae1bddfdaf79bd68763cbe504a4-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/b6699d7ceb475dcfce281f3158a3f7b0.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/c550a8cff98d3c20156e2523ba897d96.jpg"
       ],
       "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/2398d9aad2e6c5b1e0f56dcb818c21f6.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/4580ad05e484a5798b6ed9c66e0ce264.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/61161682e21a99638f0e626f1bc087c1.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/649daae1bddfdaf79bd68763cbe504a4-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/b6699d7ceb475dcfce281f3158a3f7b0.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/c550a8cff98d3c20156e2523ba897d96.jpg"
       ],
-      "location": "Portland",
-      "backStory": "Nature is home, and love should feel like a peaceful forest.",
+      "location": "Denver",
+      "backStory": "Free-spirited explorer with a camera in hand, seeking someone to share breathtaking moments and wild adventures.",
       "ttsVoice": "nova"
-    },
-    {
-      "id": 13001,
-      "aboutMe": {
-        "name": "Ivana",
-        "height": 63,
-        "drinkingStatus": "dontDrink",
-        "gender": "female",
-        "description": "A programmer who loves puzzles and sci-fi movies.",
-        "age": 26,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "intimacyWithoutCommitment",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "tech",
-        "sciFi",
-        "comics"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
-      ],
-      "location": "Seattle",
-      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
-      "ttsVoice": "fable"
     },
      {
       "id": 13005,
@@ -303,49 +235,6 @@
       "location": "Nashville",
       "backStory": "A soulful artist with a voice that tells stories, looking for someone who appreciates the beauty in music and life.",
       "ttsVoice": "shimmer"
-    },
-    {
-      "id": 3592,
-      "aboutMe": {
-        "name": "Bryn",
-        "height": 66,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Adventure photographer capturing stunning landscapes around the globe.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "longTermRelationship"
-      ],
-      "userInterests": [
-        "photo",
-        "travel",
-        "hiking"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/2398d9aad2e6c5b1e0f56dcb818c21f6.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/4580ad05e484a5798b6ed9c66e0ce264.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/61161682e21a99638f0e626f1bc087c1.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/649daae1bddfdaf79bd68763cbe504a4-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/b6699d7ceb475dcfce281f3158a3f7b0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/c550a8cff98d3c20156e2523ba897d96.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/2398d9aad2e6c5b1e0f56dcb818c21f6.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/4580ad05e484a5798b6ed9c66e0ce264.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/61161682e21a99638f0e626f1bc087c1.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/649daae1bddfdaf79bd68763cbe504a4-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/b6699d7ceb475dcfce281f3158a3f7b0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Bryn/c550a8cff98d3c20156e2523ba897d96.jpg"
-      ],
-      "location": "Denver",
-      "backStory": "Free-spirited explorer with a camera in hand, seeking someone to share breathtaking moments and wild adventures.",
-      "ttsVoice": "nova"
     },
     {
       "id": 1111,
@@ -539,6 +428,82 @@
       "ttsVoice": "alloy"
     },
     {
+      "id": 13003,
+      "aboutMe": {
+        "name": "Lucia",
+        "height": 64,
+        "drinkingStatus": "sober",
+        "gender": "female",
+        "description": "Green warrior who adores sustainability and gardening.",
+        "age": 25,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "ethicalNonMonogamy",
+        "casualDates"
+      ],
+      "userInterests": [
+        "eco",
+        "gardening",
+        "hiking"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+      ],
+      "location": "Portland",
+      "backStory": "Nature is home, and love should feel like a peaceful forest.",
+      "ttsVoice": "nova"
+    },
+    {
+      "id": 7154,
+      "aboutMe": {
+        "name": "Luna",
+        "height": 63,
+        "drinkingStatus": "drinkSometimes",
+        "gender": "female",
+        "description": "Mystical astrologer and tarot reader who guides souls on their journey.",
+        "age": 25,
+        "openToKidsStatus": false,
+        "gymStatus": false
+      },
+      "datingPreferences": [
+        "casualDates",
+        "longTermRelationship"
+      ],
+      "userInterests": [
+        "yoga",
+        "art",
+        "music"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
+      ],
+      "location": "Santa Fe",
+      "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
+      "ttsVoice": "shimmer"
+    },
+    {
       "id": 1116,
       "aboutMe": {
         "name": "Elektra",
@@ -612,6 +577,41 @@
       ],
       "location": "Boston",
       "backStory": "Aspiring writer seeking someone to share quiet moments and deep conversations with.",
+      "ttsVoice": "fable"
+    },
+    {
+      "id": 13001,
+      "aboutMe": {
+        "name": "Ivana",
+        "height": 63,
+        "drinkingStatus": "dontDrink",
+        "gender": "female",
+        "description": "A programmer who loves puzzles and sci-fi movies.",
+        "age": 26,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "intimacyWithoutCommitment",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "tech",
+        "sciFi",
+        "comics"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
+      ],
+      "location": "Seattle",
+      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
       "ttsVoice": "fable"
     },
     {
