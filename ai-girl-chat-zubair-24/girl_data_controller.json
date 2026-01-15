@@ -1,6 +1,6 @@
 {
   "swipe_config": {
-    "non_premium_daily_swipe_limit": 8,
+    "non_premium_daily_swipe_limit": 10,
     "swipe_limit_reset_hours": 3600,
     "show_premium_prompt_after_limit": true
   },
