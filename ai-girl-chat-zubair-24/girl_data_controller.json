@@ -1,7 +1,7 @@
 {
   "swipe_config": {
     "non_premium_daily_swipe_limit": 6,
-    "swipe_limit_reset_hours": 3600,
+    "swipe_limit_reset_hours": 36000,
     "show_premium_prompt_after_limit": true
   },
   "notification_timing": {
