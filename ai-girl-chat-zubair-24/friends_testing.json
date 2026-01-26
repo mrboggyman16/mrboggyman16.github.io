@@ -1,199 +1,6 @@
 {
   "friends": [
     {
-      "id": 8368,
-      "aboutMe": {
-        "name": "Mila",
-        "height": 66,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Professional mixologist crafting innovative cocktails at an upscale rooftop bar.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "casualDates",
-        "intimacyWithoutCommitment"
-      ],
-      "userInterests": [
-        "drinks",
-        "music",
-        "dancing"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/0102b83ff7a078410f8b526d9b9927f8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/5b5dc0fb4401abd6ecc74e6288c46046.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/62878feb0982dc8ec73ceee312633715.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/a85a8f3688f29d78bde91d4fd283c587.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/ee583d40d2c8bd5c7ef80c49eac48c9a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/f4578062a662e9e289a05e00f2f1ad11.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/0102b83ff7a078410f8b526d9b9927f8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/5b5dc0fb4401abd6ecc74e6288c46046.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/62878feb0982dc8ec73ceee312633715.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/a85a8f3688f29d78bde91d4fd283c587.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/ee583d40d2c8bd5c7ef80c49eac48c9a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/f4578062a662e9e289a05e00f2f1ad11.jpg"
-      ],
-      "location": "Las Vegas",
-      "backStory": "Vibrant and social bartender who loves the nightlife scene, looking for fun connections and exciting experiences.",
-      "ttsVoice": "nova"
-    },
-    {
-      "id": 7154,
-      "aboutMe": {
-        "name": "Luna",
-        "height": 63,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Mystical astrologer and tarot reader who guides souls on their journey.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "casualDates",
-        "longTermRelationship"
-      ],
-      "userInterests": [
-        "yoga",
-        "art",
-        "music"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
-      ],
-      "location": "Santa Fe",
-      "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
-      "ttsVoice": "shimmer"
-    },
-    {
-      "id": 13007,
-      "aboutMe": {
-        "name": "Yumi",
-        "height": 69,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Futurist thinker and part-time DJ.",
-        "age": 27,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "intimacyWithoutCommitment",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "music",
-        "tech",
-        "fest"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Yumi/0005.jpeg"
-      ],
-      "location": "Las Vegas",
-      "backStory": "Looking to vibe with curious minds and electric hearts.",
-      "ttsVoice": "sage"
-    },
-    {
-      "id": 13011,
-      "aboutMe": {
-        "name": "Mini",
-        "height": 63,
-        "drinkingStatus": "dontDrink",
-        "gender": "female",
-        "description": "A programmer who loves puzzles and sci-fi movies.",
-        "age": 26,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "tech",
-        "sciFi",
-        "comics"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0004.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mini/0004.jpeg"
-      ],
-      "location": "Seattle",
-      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
-      "ttsVoice": "shimmer"
-    },
-    {
-      "id": 13005,
-      "aboutMe": {
-        "name": "Syndy",
-        "height": 68,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Festival lover with a passion for fire dancing.",
-        "age": 26,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "intimacyWithoutCommitment"
-      ],
-      "userInterests": [
-        "fest",
-        "dancing",
-        "comedy"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Syndy/0005.jpeg"
-      ],
-      "location": "Austin",
-      "backStory": "Glowing soul who dances where the music lives.",
-      "ttsVoice": "shimmer"
-    },
-    {
       "id": 2847,
       "aboutMe": {
         "name": "Aria",
@@ -276,50 +83,15 @@
       "ttsVoice": "nova"
     },
     {
-      "id": 13001,
+      "id": 4216,
       "aboutMe": {
-        "name": "Ivana",
-        "height": 63,
-        "drinkingStatus": "dontDrink",
+        "name": "Elena",
+        "height": 68,
+        "drinkingStatus": "drink",
         "gender": "female",
-        "description": "A programmer who loves puzzles and sci-fi movies.",
-        "age": 26,
+        "description": "Sophisticated wine sommelier with a refined palate and elegant taste.",
+        "age": 29,
         "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "intimacyWithoutCommitment",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "tech",
-        "sciFi",
-        "comics"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ivana/0003.jpeg"
-      ],
-      "location": "Seattle",
-      "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 1111,
-      "aboutMe": {
-        "name": "Alice",
-        "height": 66,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Loves deep conversations and poetry.",
-        "age": 24,
-        "openToKidsStatus": true,
         "gymStatus": false
       },
       "datingPreferences": [
@@ -327,76 +99,236 @@
         "marriage"
       ],
       "userInterests": [
-        "music",
-        "art",
+        "wine",
+        "food",
         "travel"
       ],
       "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/5f022898e149cb68757929f66442444b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68e82b9a3be25a41646d8e481de1b2ee.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68fbde82ce101b0868e3559490f01eb3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/6a7cf1c38b7daa0abba51301094ea956.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/8aeaa700d3e0aceafb29bbad84f54126.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/e7e2e1ac47ce6159f71b750f1f9e5de6.jpg"
       ],
       "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alice/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/5f022898e149cb68757929f66442444b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68e82b9a3be25a41646d8e481de1b2ee.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68fbde82ce101b0868e3559490f01eb3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/6a7cf1c38b7daa0abba51301094ea956.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/8aeaa700d3e0aceafb29bbad84f54126.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/e7e2e1ac47ce6159f71b750f1f9e5de6.jpg"
       ],
-      "location": "New York",
-      "backStory": "A creative artist seeking meaningful connections.",
-      "ttsVoice": "nova"
+      "location": "Napa Valley",
+      "backStory": "Cultured and passionate about the finer things in life, searching for a partner to savor life's best moments together.",
+      "ttsVoice": "fable"
     },
     {
-      "id": 1112,
+      "id": 5783,
       "aboutMe": {
-        "name": "Alina",
-        "height": 65,
+        "name": "Indie",
+        "height": 64,
+        "drinkingStatus": "rarelyDrink",
+        "gender": "female",
+        "description": "Independent film director creating thought-provoking documentaries.",
+        "age": 26,
+        "openToKidsStatus": true,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "lifePartner",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "film",
+        "art",
+        "music"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/7e101069f0acb3bbfe5f0ae12392e374.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/b13a3d179a42815f49dbbaf95ade0b01-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/c51a3acee408eafb62528c0b340aaa59.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/e05ee0d94a367b58e3e291280f6d6ce5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/f1202d7d62c114eeea741e615d05d633.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/7e101069f0acb3bbfe5f0ae12392e374.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/b13a3d179a42815f49dbbaf95ade0b01-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/c51a3acee408eafb62528c0b340aaa59.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/e05ee0d94a367b58e3e291280f6d6ce5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/f1202d7d62c114eeea741e615d05d633.jpg"
+      ],
+      "location": "Portland",
+      "backStory": "Creative visionary with a unique perspective on life, looking for an open-minded soul to share authentic connections.",
+      "ttsVoice": "coral"
+    },
+    {
+      "id": 6429,
+      "aboutMe": {
+        "name": "Kaia",
+        "height": 67,
         "drinkingStatus": "dontDrink",
         "gender": "female",
-        "description": "Tech-savvy and loves coding.",
-        "age": 26,
-        "openToKidsStatus": false,
+        "description": "Marine biologist dedicated to ocean conservation and protecting coral reefs.",
+        "age": 28,
+        "openToKidsStatus": true,
         "gymStatus": true
+      },
+      "datingPreferences": [
+        "marriage",
+        "lifePartner"
+      ],
+      "userInterests": [
+        "eco",
+        "hiking",
+        "travel"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/1da1fe7bbf738a964c74aa007066b334.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/57c97bb5fb0fe60cf3ba1b7deaf2153c.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/68962d00fb861a3467452a4f244a1e9f.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/a8808a48db0ff44409cdb23107cff12a.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/1da1fe7bbf738a964c74aa007066b334.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/57c97bb5fb0fe60cf3ba1b7deaf2153c.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/68962d00fb861a3467452a4f244a1e9f.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/a8808a48db0ff44409cdb23107cff12a.jpg"
+      ],
+      "location": "Honolulu",
+      "backStory": "Ocean-loving scientist with a heart for the sea, seeking someone who shares her passion for protecting our planet.",
+      "ttsVoice": "alloy"
+    },
+    {
+      "id": 7154,
+      "aboutMe": {
+        "name": "Luna",
+        "height": 63,
+        "drinkingStatus": "drinkSometimes",
+        "gender": "female",
+        "description": "Mystical astrologer and tarot reader who guides souls on their journey.",
+        "age": 25,
+        "openToKidsStatus": false,
+        "gymStatus": false
+      },
+      "datingPreferences": [
+        "casualDates",
+        "longTermRelationship"
+      ],
+      "userInterests": [
+        "yoga",
+        "art",
+        "music"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/05e2b4c6a909f7c4e6c0d9252fa52532.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/24f2df02cb62865bac7c9aeb8a87d1c5.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/2e085949a9bb503ef1e569fd06529f66.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/5633389d3ea3dc19b64a412b560cd47a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Luna/8e637772400772d003fa46d0f797815d.jpg"
+      ],
+      "location": "Santa Fe",
+      "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
+      "ttsVoice": "shimmer"
+    },
+    {
+      "id": 8368,
+      "aboutMe": {
+        "name": "Mila",
+        "height": 66,
+        "drinkingStatus": "drink",
+        "gender": "female",
+        "description": "Professional mixologist crafting innovative cocktails at an upscale rooftop bar.",
+        "age": 27,
+        "openToKidsStatus": true,
+        "gymStatus": false
       },
       "datingPreferences": [
         "casualDates",
         "intimacyWithoutCommitment"
       ],
       "userInterests": [
-        "tech",
-        "comedy",
-        "photo"
+        "drinks",
+        "music",
+        "dancing"
       ],
       "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0005.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0006.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/0102b83ff7a078410f8b526d9b9927f8.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/5b5dc0fb4401abd6ecc74e6288c46046.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/62878feb0982dc8ec73ceee312633715.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/a85a8f3688f29d78bde91d4fd283c587.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/ee583d40d2c8bd5c7ef80c49eac48c9a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/f4578062a662e9e289a05e00f2f1ad11.jpg"
       ],
       "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0005.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Alina/0006.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/0102b83ff7a078410f8b526d9b9927f8.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/5b5dc0fb4401abd6ecc74e6288c46046.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/62878feb0982dc8ec73ceee312633715.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/a85a8f3688f29d78bde91d4fd283c587.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/ee583d40d2c8bd5c7ef80c49eac48c9a.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mila/f4578062a662e9e289a05e00f2f1ad11.jpg"
       ],
-      "location": "San Francisco",
-      "backStory": "A software engineer with a passion for AI.",
-      "ttsVoice": "shimmer"
+      "location": "Las Vegas",
+      "backStory": "Vibrant and social bartender who loves the nightlife scene, looking for fun connections and exciting experiences.",
+      "ttsVoice": "nova"
     },
     {
-      "id": 1113,
+      "id": 9521,
       "aboutMe": {
-        "name": "Ayanna",
-        "height": 67,
+        "name": "Remi",
+        "height": 65,
+        "drinkingStatus": "rarelyDrink",
+        "gender": "female",
+        "description": "Talented pastry chef creating edible works of art at a French patisserie.",
+        "age": 26,
+        "openToKidsStatus": true,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "longTermRelationship",
+        "marriage"
+      ],
+      "userInterests": [
+        "food",
+        "cuisine",
+        "art"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
+      ],
+      "location": "Paris",
+      "backStory": "Sweet and creative chef with a love for all things delicious, hoping to find someone to share life's sweetest moments.",
+      "ttsVoice": "fable"
+    },
+    {
+      "id": 1734,
+      "aboutMe": {
+        "name": "Sloane",
+        "height": 69,
         "drinkingStatus": "drinkSometimes",
         "gender": "female",
-        "description": "Adventurer and thrill-seeker.",
-        "age": 25,
+        "description": "Ambitious corporate lawyer specializing in environmental law and sustainability.",
+        "age": 30,
         "openToKidsStatus": true,
         "gymStatus": true
       },
@@ -405,175 +337,82 @@
         "marriage"
       ],
       "userInterests": [
-        "travel",
-        "film",
-        "pets"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ayanna/0005.jpeg"
-      ],
-      "location": "Los Angeles",
-      "backStory": "Loves exploring new places and meeting people.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 1114,
-      "aboutMe": {
-        "name": "Charlotte",
-        "height": 64,
-        "drinkingStatus": "dontDrink",
-        "gender": "female",
-        "description": "Loves cooking and experimenting with cuisines.",
-        "age": 23,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "casualDates",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "cuisine",
-        "food",
-        "wine"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Charlotte/0005.jpeg"
-      ],
-      "location": "Chicago",
-      "backStory": "A chef looking for someone to share meals with.",
-      "ttsVoice": "echo"
-    },
-    {
-      "id": 1115,
-      "aboutMe": {
-        "name": "Chloe",
-        "height": 68,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Passionate about music and songwriting.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "music",
-        "comedy",
-        "photo"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Chloe/0005.jpeg"
-      ],
-      "location": "Nashville",
-      "backStory": "Singer-songwriter searching for an inspiring connection.",
-      "ttsVoice": "alloy"
-    },
-    {
-      "id": 1116,
-      "aboutMe": {
-        "name": "Elektra",
-        "height": 63,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Yoga instructor with a passion for mindfulness.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
         "yoga",
         "eco",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elektra/0005.jpeg"
-      ],
-      "location": "Miami",
-      "backStory": "Loves to spread positive vibes through yoga and meditation.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 13003,
-      "aboutMe": {
-        "name": "Lucia",
-        "height": 64,
-        "drinkingStatus": "sober",
-        "gender": "female",
-        "description": "Green warrior who adores sustainability and gardening.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "ethicalNonMonogamy",
-        "casualDates"
-      ],
-      "userInterests": [
-        "eco",
-        "gardening",
         "hiking"
       ],
       "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/0020ac43cd5064443e8f599a832016e8.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/039a0d7ec855497cb6efe919e0108951.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/10b304a03f0affdf7d9dd96ddb658f89.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1c7dcd46c72c8a7e01dfc81e9069fd35.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1e965d5f09d51f73027105bf641dc95b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/3990ffd2914fb81b61c9cef87b745827.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/673141ff4e8b6a2df191c9c277b7580b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/85a4b767a68fbfd2a1ad4e745b2c6bf7.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/d3f6d2d550c8318d9e1102d5c5ad8e09.jpg"
       ],
       "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucia/0005.jpeg"
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/0020ac43cd5064443e8f599a832016e8.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/039a0d7ec855497cb6efe919e0108951.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/10b304a03f0affdf7d9dd96ddb658f89.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1c7dcd46c72c8a7e01dfc81e9069fd35.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1e965d5f09d51f73027105bf641dc95b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/3990ffd2914fb81b61c9cef87b745827.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/673141ff4e8b6a2df191c9c277b7580b.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/85a4b767a68fbfd2a1ad4e745b2c6bf7.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/d3f6d2d550c8318d9e1102d5c5ad8e09.jpg"
       ],
-      "location": "Portland",
-      "backStory": "Nature is home, and love should feel like a peaceful forest.",
-      "ttsVoice": "nova"
+      "location": "Boston",
+      "backStory": "Intelligent and driven professional fighting for a better world, seeking an equally ambitious partner to build a future with.",
+      "ttsVoice": "coral"
+    },
+    {
+      "id": 4965,
+      "aboutMe": {
+        "name": "Zara",
+        "height": 64,
+        "drinkingStatus": "drink",
+        "gender": "female",
+        "description": "Bold fashion model walking runways and gracing magazine covers worldwide.",
+        "age": 23,
+        "openToKidsStatus": false,
+        "gymStatus": true
+      },
+      "datingPreferences": [
+        "casualDates",
+        "ethicalNonMonogamy"
+      ],
+      "userInterests": [
+        "photo",
+        "art",
+        "travel"
+      ],
+      "imageUrls": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4404e252048e6423f451d24c6abd0e50.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4686610910ea2aa570ac551ea2db85f0.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/84e38450ebe8173db50afd3e9e44b9a3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/9d4ee833105668db73111b4639323c0f.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/a74525e1e49f15adf30f2ad5e513853c.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/b588faa7db3bbcb7f5efa7f7c22aca3d.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/dbe2ecb0ae96c749c03bddb6b291f626.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/f72fa2fa5def6ba96e2976e88a0a1d68-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/fa71e995e9939db47eb8ecfbf0b16375.jpg"
+      ],
+      "messageImages": [
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4404e252048e6423f451d24c6abd0e50.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4686610910ea2aa570ac551ea2db85f0.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/84e38450ebe8173db50afd3e9e44b9a3.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/9d4ee833105668db73111b4639323c0f.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/a74525e1e49f15adf30f2ad5e513853c.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/b588faa7db3bbcb7f5efa7f7c22aca3d.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/dbe2ecb0ae96c749c03bddb6b291f626.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/f72fa2fa5def6ba96e2976e88a0a1d68-2.jpg",
+        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/fa71e995e9939db47eb8ecfbf0b16375.jpg"
+      ],
+      "location": "Milan",
+      "backStory": "Confident and glamorous jet-setter living life in the spotlight, open to exciting connections with no strings attached.",
+      "ttsVoice": "alloy"
     },
     {
       "id": 1117,
@@ -753,45 +592,6 @@
       "location": "Austin",
       "backStory": "Compassionate animal lover hoping to find someone who shares her kindness.",
       "ttsVoice": "fable"
-    },
-    {
-      "id": 1122,
-      "aboutMe": {
-        "name": "Jessica",
-        "height": 65,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Marketing executive who loves weekend wine tastings.",
-        "age": 29,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "intimacyWithoutCommitment"
-      ],
-      "userInterests": [
-        "wine",
-        "food",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/00009-958856238.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809367564804416985.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809367564804416986.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809368307833511114.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809368307833511115.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/00009-958856238.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809367564804416985.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809367564804416986.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809368307833511114.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Jessica/809368307833511115.jpeg"
-      ],
-      "location": "San Francisco",
-      "backStory": "Sophisticated professional seeking someone to enjoy the finer things in life with.",
-      "ttsVoice": "echo"
     },
     {
       "id": 1123,
@@ -989,41 +789,6 @@
       "ttsVoice": "coral"
     },
     {
-      "id": 1128,
-      "aboutMe": {
-        "name": "Megan",
-        "height": 65,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Craft beer enthusiast who brews her own ales.",
-        "age": 28,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "casualDates",
-        "intimacyWithoutCommitment"
-      ],
-      "userInterests": [
-        "beer",
-        "crafts",
-        "food"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00003-2775965911.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00021-2775965930.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00022-2775965931.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00003-2775965911.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00021-2775965930.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Megan/00022-2775965931.jpeg"
-      ],
-      "location": "Portland",
-      "backStory": "Creative brewer looking for someone to share craft adventures with.",
-      "ttsVoice": "nova"
-    },
-    {
       "id": 1129,
       "aboutMe": {
         "name": "Rachel",
@@ -1063,82 +828,6 @@
       "ttsVoice": "shimmer"
     },
     {
-      "id": 1130,
-      "aboutMe": {
-        "name": "Amy",
-        "height": 63,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Film critic who attends every movie festival.",
-        "age": 26,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "casualDates",
-        "longTermRelationship"
-      ],
-      "userInterests": [
-        "film",
-        "festivals",
-        "art"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00008-2355248557.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00021-3579845222.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00024-3579845225.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00066-1505804937.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00072-2996155568.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00008-2355248557.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00021-3579845222.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00024-3579845225.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00066-1505804937.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Amy/00072-2996155568.jpeg"
-      ],
-      "location": "Los Angeles",
-      "backStory": "Cinema lover seeking someone to share movie nights and festival adventures with.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 1131,
-      "aboutMe": {
-        "name": "Lucy",
-        "height": 64,
-        "drinkingStatus": "sober",
-        "gender": "female",
-        "description": "Meditation teacher who finds peace in mindfulness.",
-        "age": 25,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "lifePartner",
-        "marriage"
-      ],
-      "userInterests": [
-        "yoga",
-        "retreat",
-        "eco"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00117-1778051638.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00160-1989516540.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00202-2640564185.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00216-4073489279.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00117-1778051638.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00160-1989516540.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00202-2640564185.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Lucy/00216-4073489279.jpeg"
-      ],
-      "location": "Boulder",
-      "backStory": "Peaceful soul seeking inner harmony and a mindful relationship.",
-      "ttsVoice": "echo"
-    },
-    {
       "id": 1132,
       "aboutMe": {
         "name": "Georgia",
@@ -1175,698 +864,6 @@
       ],
       "location": "New York",
       "backStory": "Creative designer seeking someone who appreciates beauty and style.",
-      "ttsVoice": "alloy"
-    },
-    {
-      "id": 1133,
-      "aboutMe": {
-        "name": "Victoria",
-        "height": 66,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Event planner who organizes luxury weddings.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "marriage",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "wine",
-        "food",
-        "dancing"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/1541ae15ba7422016656e9bd578e3cbc.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/30a5a936ee025bac0c1d539d673dc4a0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/48e6e3d32e3eafea1397bf2d1b372e49.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/7b731d1d8793dfc2c03e8e487982afdc.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/1541ae15ba7422016656e9bd578e3cbc.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/30a5a936ee025bac0c1d539d673dc4a0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/48e6e3d32e3eafea1397bf2d1b372e49.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Victoria/7b731d1d8793dfc2c03e8e487982afdc.jpg"
-      ],
-      "location": "Nashville",
-      "backStory": "Romantic planner dreaming of her own perfect love story.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 1134,
-      "aboutMe": {
-        "name": "Natalie",
-        "height": 65,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Graphic novelist who illustrates fantasy stories.",
-        "age": 24,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "casualDates"
-      ],
-      "userInterests": [
-        "comics",
-        "fantasy",
-        "art"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/6b8ad451fc9d8dd124aa621a8e164dbb.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/e0b5e3227d3aa1283bc4604f0a0b31d8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/f002d74ff11e832364befd7295597d48.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/6b8ad451fc9d8dd124aa621a8e164dbb.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/e0b5e3227d3aa1283bc4604f0a0b31d8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Natalie/f002d74ff11e832364befd7295597d48.jpg"
-      ],
-      "location": "Seattle",
-      "backStory": "Imaginative artist seeking someone to create magical stories with.",
-      "ttsVoice": "sage"
-    },
-    {
-      "id": 1135,
-      "aboutMe": {
-        "name": "Isabella",
-        "height": 68,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Ski instructor who lives for fresh powder days.",
-        "age": 26,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "skiing",
-        "hiking",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/27a16ebb2449d64eb4217b4569ed85cd.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/372e1f3fd91bf648b88ea76296805d59.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/77a18b3eeeea97b238d2cc8d95ac03f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/9edde09552ecbaa4f51595b8ff55f27e.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/27a16ebb2449d64eb4217b4569ed85cd.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/372e1f3fd91bf648b88ea76296805d59.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/77a18b3eeeea97b238d2cc8d95ac03f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Isabella/9edde09552ecbaa4f51595b8ff55f27e.jpg"
-      ],
-      "location": "Denver",
-      "backStory": "Mountain enthusiast seeking an adventurous partner to explore peaks with.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 1136,
-      "aboutMe": {
-        "name": "Zoe",
-        "height": 64,
-        "drinkingStatus": "dontDrink",
-        "gender": "female",
-        "description": "Vegetarian chef who creates innovative plant-based cuisine.",
-        "age": 28,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "marriage",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "vegetarian",
-        "cuisine",
-        "eco"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zoe/1bad4de7ed9287da8130f3056c8517c9.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zoe/66306af1372509197966ffdacbeb7654.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zoe/1bad4de7ed9287da8130f3056c8517c9.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zoe/66306af1372509197966ffdacbeb7654.jpg"
-      ],
-      "location": "Portland",
-      "backStory": "Compassionate chef seeking someone to share healthy, delicious meals with.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 13000,
-      "aboutMe": {
-        "name": "Ella",
-        "height": 65,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Loves painting sunsets and walking barefoot on grass.",
-        "age": 24,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "casualDates"
-      ],
-      "userInterests": [
-        "art",
-        "yoga",
-        "music"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Ella/0005.jpeg"
-      ],
-      "location": "New York",
-      "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
-      "ttsVoice": "sage"
-    },
-    {
-      "id": 13002,
-      "aboutMe": {
-        "name": "Kristina",
-        "height": 67,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Bookworm who dreams of ancient civilizations.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "marriage",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "history",
-        "museums",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kristina/0005.jpeg"
-      ],
-      "location": "Chicago",
-      "backStory": "Fascinated by history and seeking someone to uncover the past with.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 13004,
-      "aboutMe": {
-        "name": "Mary",
-        "height": 66,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Jazz singer who collects vinyl and vintage postcards.",
-        "age": 28,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "vinyl",
-        "music",
-        "dance"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0003.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Mary/0003.jpeg"
-      ],
-      "location": "New Orleans",
-      "backStory": "A nostalgic heart dancing through life's rhythm.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 13006,
-      "aboutMe": {
-        "name": "Trisha",
-        "height": 62,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Nature photographer with a soft spot for wildlife.",
-        "age": 25,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "photo",
-        "hiking",
-        "pets"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Trisha/0005.jpeg"
-      ],
-      "location": "Denver",
-      "backStory": "Seeks someone to hike trails and capture memories with.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 13010,
-      "aboutMe": {
-        "name": "Marylin",
-        "height": 65,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Loves painting sunsets and walking barefoot on grass.",
-        "age": 24,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "casualDates"
-      ],
-      "userInterests": [
-        "art",
-        "yoga",
-        "music"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Marylin/0005.jpeg"
-      ],
-      "location": "New York",
-      "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
-      "ttsVoice": "nova"
-    },
-    {
-      "id": 13012,
-      "aboutMe": {
-        "name": "Olivia",
-        "height": 67,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Bookworm who dreams of ancient civilizations.",
-        "age": 27,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "marriage",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "history",
-        "museums",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Olivia/0005.jpeg"
-      ],
-      "location": "Chicago",
-      "backStory": "Fascinated by history and seeking someone to uncover the past with.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 13013,
-      "aboutMe": {
-        "name": "Sienna",
-        "height": 64,
-        "drinkingStatus": "sober",
-        "gender": "female",
-        "description": "Green warrior who adores sustainability and gardening.",
-        "age": 25,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "ethicalNonMonogamy",
-        "casualDates"
-      ],
-      "userInterests": [
-        "eco",
-        "gardening",
-        "hiking"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0004.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0003.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sienna/0004.jpeg"
-      ],
-      "location": "Portland",
-      "backStory": "Nature is home, and love should feel like a peaceful forest.",
-      "ttsVoice": "echo"
-    },
-    {
-      "id": 13014,
-      "aboutMe": {
-        "name": "Stella",
-        "height": 66,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Jazz singer who collects vinyl and vintage postcards.",
-        "age": 28,
-        "openToKidsStatus": true,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "vinyl",
-        "music",
-        "dance"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0005.jpeg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0001.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0002.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0004.jpeg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Stella/0005.jpeg"
-      ],
-      "location": "New Orleans",
-      "backStory": "A nostalgic heart dancing through life's rhythm.",
-      "ttsVoice": "alloy"
-    },
-    {
-      "id": 4216,
-      "aboutMe": {
-        "name": "Elena",
-        "height": 68,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Sophisticated wine sommelier with a refined palate and elegant taste.",
-        "age": 29,
-        "openToKidsStatus": false,
-        "gymStatus": false
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "marriage"
-      ],
-      "userInterests": [
-        "wine",
-        "food",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/5f022898e149cb68757929f66442444b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68e82b9a3be25a41646d8e481de1b2ee.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68fbde82ce101b0868e3559490f01eb3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/6a7cf1c38b7daa0abba51301094ea956.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/8aeaa700d3e0aceafb29bbad84f54126.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/e7e2e1ac47ce6159f71b750f1f9e5de6.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/5f022898e149cb68757929f66442444b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68e82b9a3be25a41646d8e481de1b2ee.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/68fbde82ce101b0868e3559490f01eb3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/6a7cf1c38b7daa0abba51301094ea956.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/8aeaa700d3e0aceafb29bbad84f54126.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Elena/e7e2e1ac47ce6159f71b750f1f9e5de6.jpg"
-      ],
-      "location": "Napa Valley",
-      "backStory": "Cultured and passionate about the finer things in life, searching for a partner to savor life's best moments together.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 5783,
-      "aboutMe": {
-        "name": "Indie",
-        "height": 64,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Independent film director creating thought-provoking documentaries.",
-        "age": 26,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "lifePartner",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "film",
-        "art",
-        "music"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/7e101069f0acb3bbfe5f0ae12392e374.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/b13a3d179a42815f49dbbaf95ade0b01-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/c51a3acee408eafb62528c0b340aaa59.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/e05ee0d94a367b58e3e291280f6d6ce5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/f1202d7d62c114eeea741e615d05d633.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/7e101069f0acb3bbfe5f0ae12392e374.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/b13a3d179a42815f49dbbaf95ade0b01-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/c51a3acee408eafb62528c0b340aaa59.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/e05ee0d94a367b58e3e291280f6d6ce5.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Indie/f1202d7d62c114eeea741e615d05d633.jpg"
-      ],
-      "location": "Portland",
-      "backStory": "Creative visionary with a unique perspective on life, looking for an open-minded soul to share authentic connections.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 6429,
-      "aboutMe": {
-        "name": "Kaia",
-        "height": 67,
-        "drinkingStatus": "dontDrink",
-        "gender": "female",
-        "description": "Marine biologist dedicated to ocean conservation and protecting coral reefs.",
-        "age": 28,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "marriage",
-        "lifePartner"
-      ],
-      "userInterests": [
-        "eco",
-        "hiking",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/1da1fe7bbf738a964c74aa007066b334.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/57c97bb5fb0fe60cf3ba1b7deaf2153c.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/68962d00fb861a3467452a4f244a1e9f.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/a8808a48db0ff44409cdb23107cff12a.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/1da1fe7bbf738a964c74aa007066b334.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/57c97bb5fb0fe60cf3ba1b7deaf2153c.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/68962d00fb861a3467452a4f244a1e9f.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Kaia/a8808a48db0ff44409cdb23107cff12a.jpg"
-      ],
-      "location": "Honolulu",
-      "backStory": "Ocean-loving scientist with a heart for the sea, seeking someone who shares her passion for protecting our planet.",
-      "ttsVoice": "alloy"
-    },
-    {
-      "id": 9521,
-      "aboutMe": {
-        "name": "Remi",
-        "height": 65,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Talented pastry chef creating edible works of art at a French patisserie.",
-        "age": 26,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "marriage"
-      ],
-      "userInterests": [
-        "food",
-        "cuisine",
-        "art"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
-      ],
-      "location": "Paris",
-      "backStory": "Sweet and creative chef with a love for all things delicious, hoping to find someone to share life's sweetest moments.",
-      "ttsVoice": "fable"
-    },
-    {
-      "id": 1734,
-      "aboutMe": {
-        "name": "Sloane",
-        "height": 69,
-        "drinkingStatus": "drinkSometimes",
-        "gender": "female",
-        "description": "Ambitious corporate lawyer specializing in environmental law and sustainability.",
-        "age": 30,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "lifePartner",
-        "marriage"
-      ],
-      "userInterests": [
-        "yoga",
-        "eco",
-        "hiking"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/0020ac43cd5064443e8f599a832016e8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/039a0d7ec855497cb6efe919e0108951.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/10b304a03f0affdf7d9dd96ddb658f89.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1c7dcd46c72c8a7e01dfc81e9069fd35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1e965d5f09d51f73027105bf641dc95b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/3990ffd2914fb81b61c9cef87b745827.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/673141ff4e8b6a2df191c9c277b7580b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/85a4b767a68fbfd2a1ad4e745b2c6bf7.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/d3f6d2d550c8318d9e1102d5c5ad8e09.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/0020ac43cd5064443e8f599a832016e8.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/039a0d7ec855497cb6efe919e0108951.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/10b304a03f0affdf7d9dd96ddb658f89.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1c7dcd46c72c8a7e01dfc81e9069fd35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/1e965d5f09d51f73027105bf641dc95b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/3990ffd2914fb81b61c9cef87b745827.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/673141ff4e8b6a2df191c9c277b7580b.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/85a4b767a68fbfd2a1ad4e745b2c6bf7.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Sloane/d3f6d2d550c8318d9e1102d5c5ad8e09.jpg"
-      ],
-      "location": "Boston",
-      "backStory": "Intelligent and driven professional fighting for a better world, seeking an equally ambitious partner to build a future with.",
-      "ttsVoice": "coral"
-    },
-    {
-      "id": 4965,
-      "aboutMe": {
-        "name": "Zara",
-        "height": 64,
-        "drinkingStatus": "drink",
-        "gender": "female",
-        "description": "Bold fashion model walking runways and gracing magazine covers worldwide.",
-        "age": 23,
-        "openToKidsStatus": false,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "casualDates",
-        "ethicalNonMonogamy"
-      ],
-      "userInterests": [
-        "photo",
-        "art",
-        "travel"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4404e252048e6423f451d24c6abd0e50.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4686610910ea2aa570ac551ea2db85f0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/84e38450ebe8173db50afd3e9e44b9a3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/9d4ee833105668db73111b4639323c0f.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/a74525e1e49f15adf30f2ad5e513853c.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/b588faa7db3bbcb7f5efa7f7c22aca3d.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/dbe2ecb0ae96c749c03bddb6b291f626.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/f72fa2fa5def6ba96e2976e88a0a1d68-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/fa71e995e9939db47eb8ecfbf0b16375.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4404e252048e6423f451d24c6abd0e50.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/4686610910ea2aa570ac551ea2db85f0.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/84e38450ebe8173db50afd3e9e44b9a3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/9d4ee833105668db73111b4639323c0f.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/a74525e1e49f15adf30f2ad5e513853c.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/b588faa7db3bbcb7f5efa7f7c22aca3d.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/dbe2ecb0ae96c749c03bddb6b291f626.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/f72fa2fa5def6ba96e2976e88a0a1d68-2.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Zara/fa71e995e9939db47eb8ecfbf0b16375.jpg"
-      ],
-      "location": "Milan",
-      "backStory": "Confident and glamorous jet-setter living life in the spotlight, open to exciting connections with no strings attached.",
       "ttsVoice": "alloy"
     }
   ]
