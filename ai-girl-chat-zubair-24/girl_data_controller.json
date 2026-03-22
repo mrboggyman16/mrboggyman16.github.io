@@ -18,7 +18,7 @@
     "enable_swipe_limit": true,
     "enable_friend_request_notifications": true,
     "enable_auto_cleanup": true,
-    "show_ai_data_processing_notice": true
+    "show_ai_data_processing_notice": false
   },
   "default_images": {
     "shop_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Bryn/359dc262c5168117d5da0c527d664cca.jpg",
