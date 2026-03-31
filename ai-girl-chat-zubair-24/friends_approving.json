@@ -116,47 +116,6 @@
       "ttsVoice": "shimmer"
     },
     {
-      "id": 9521,
-      "aboutMe": {
-        "name": "Remi",
-        "height": 65,
-        "drinkingStatus": "rarelyDrink",
-        "gender": "female",
-        "description": "Talented pastry chef creating edible works of art at a French patisserie.",
-        "age": 26,
-        "openToKidsStatus": true,
-        "gymStatus": true
-      },
-      "datingPreferences": [
-        "longTermRelationship",
-        "marriage"
-      ],
-      "userInterests": [
-        "food",
-        "cuisine",
-        "art"
-      ],
-      "imageUrls": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
-      ],
-      "messageImages": [
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2ba0083ba4178f9c2f0f2fbb361901f3.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/2e35920e062e32b26a64297374286e67.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/3f8a2eeb51a763c31732189218878a35.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/503860442ded722dd773c676d00add87.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/6ce3995af960621668ef38895d7fd072.jpg",
-        "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Remi/a5df723094ee80f1cb29b2bbd4c60e2e.jpg"
-      ],
-      "location": "Paris",
-      "backStory": "Sweet and creative chef with a love for all things delicious, hoping to find someone to share life's sweetest moments.",
-      "ttsVoice": "fable"
-    },
-    {
       "id": 1117,
       "aboutMe": {
         "name": "Emma",
