@@ -1,0 +1,31 @@
+{
+  "adsEnabled": true,
+  "bannersEnabled": true,
+  "interstitialEnabled": true,
+  "rewardedEnabled": true,
+  "rewardedInterstitialEnabled": true,
+  "appOpenEnabled": true,
+  "nativeOverlayEnabled": true,
+  "showInterstitialDisclosure": true,
+  "interstitialDisclosureTitle": "Advertisement",
+  "interstitialDisclosureMessage": "An ad is loading. Please wait a moment.",
+  "interstitialDisclosureSeconds": 0.75,
+  "interstitialLoaderMinimumSeconds": 0.75,
+  "interstitialLoaderTimeoutSeconds": 6.0,
+  "defaultCountedInterstitialEvery": 3,
+  "countedInterstitialRules": [
+    {
+      "placementKey": "level_complete",
+      "enabled": true,
+      "showEvery": 3
+    },
+    {
+      "placementKey": "pause_exit",
+      "enabled": true,
+      "showEvery": 2
+    }
+  ],
+  "autoShowAppOpenOnForeground": true,
+  "appOpenForegroundCooldownSeconds": 30,
+  "fullScreenReloadDelaySeconds": 0.25
+}
