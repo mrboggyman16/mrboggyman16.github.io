@@ -28,5 +28,8 @@
     "small_pack": 90,
     "medium_pack": 240,
     "large_pack": 420
+  },
+  "ai_image_generation": {
+    "daily_image_generation_limit": 2
   }
 }
