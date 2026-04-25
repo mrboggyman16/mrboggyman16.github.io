@@ -1,9 +1,10 @@
 {
   "enabled": true,
   "banner": {
-    "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/girls/Alice/0001.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/interstitial1.jpg",
     "targetUrl": "https://apps.apple.com/us/app/meet-ai-girlfriend-fantasy-3d/id6738363321",
     "showInterval": 3,
+    "cooldownDays": 3,
     "size": {
       "width": 0.9,
       "height": 0.7
@@ -44,7 +45,7 @@
         "aspectRatio": 6.4,
         "backgroundColor": "#F5F5F5",
         "clickable": true,
-        "showCloseButton": true,
+        "showCloseButton": false,
         "analytics": {
           "impressionEvent": "coins_banner_impression",
           "clickEvent": "coins_banner_click"
@@ -75,7 +76,7 @@
       "height": 90,
       "aspectRatio": 8.09,
       "backgroundColor": "#F0F0F0",
-      "clickable": true,
+      "clickable": false,
       "showCloseButton": false
     }
   }
