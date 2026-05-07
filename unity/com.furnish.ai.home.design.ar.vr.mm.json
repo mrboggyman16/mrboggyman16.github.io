@@ -1,5 +1,5 @@
 {
   "is_ios_approving": true,
   "is_android_approving": true,
-  "daily_free_ai_image_generation_limit": 10
+  "daily_free_ai_image_generation_limit": 1
 }
