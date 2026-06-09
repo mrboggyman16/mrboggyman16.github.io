@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "safetyCenter": {
+    "banner": {
+      "title": "Your Safety Matters",
+      "message": "We are committed to keeping Second Marriage a safe and respectful space for everyone."
+    },
+    "resources": [
+      {
+        "icon": "gavel",
+        "title": "Community Rules",
+        "subtitle": "Read our community standards and guidelines.",
+        "action": {
+          "type": "route",
+          "target": "communityRules"
+        }
+      },
+      {
+        "icon": "privacy",
+        "title": "Privacy Settings",
+        "subtitle": "Control who sees your profile and activity.",
+        "action": {
+          "type": "route",
+          "target": "privacySettings"
+        }
+      },
+      {
+        "icon": "support_agent",
+        "title": "Support Email",
+        "subtitle": "support@macromatrix.io",
+        "action": {
+          "type": "email",
+          "target": "support@macromatrix.io",
+          "subject": "Second Marriage Safety Support"
+        }
+      },
+      {
+        "icon": "mail",
+        "title": "Contact Email",
+        "subtitle": "contact@macromatrix.io",
+        "action": {
+          "type": "email",
+          "target": "contact@macromatrix.io",
+          "subject": "Second Marriage Safety Contact"
+        }
+      }
+    ],
+    "tips": [
+      "Never share personal contact details such as phone number, email, or address before meeting in person and establishing genuine trust.",
+      "Always meet for the first time in a public, well-populated place and let a trusted friend or family member know your plans.",
+      "Be wary of anyone who asks for money, gifts, or financial information. This is a serious red flag regardless of the reason given.",
+      "Trust your instincts. If something feels wrong or a profile seems too good to be true, stop communication immediately.",
+      "Use the in-app messaging system instead of moving to external apps until you are fully comfortable with the person.",
+      "Verify a match's identity with a video call before meeting in person to confirm they are who they say they are."
+    ],
+    "emergency": {
+      "title": "In Case of Emergency",
+      "message": "If you are in immediate danger, please contact your local emergency services. Do not hesitate to reach out to our support team at any time."
+    }
+  },
+  "communityRules": {
+    "header": {
+      "title": "Our Community Standards",
+      "message": "These rules ensure a safe, respectful space for everyone seeking a second chance at love."
+    },
+    "rules": [
+      {
+        "icon": "verified_user",
+        "title": "Honesty & Authenticity",
+        "description": "Provide accurate information about yourself. False profiles, fake photos, or misleading details are strictly prohibited and will result in immediate removal."
+      },
+      {
+        "icon": "favorite_border",
+        "title": "Serious Intent Only",
+        "description": "This platform is exclusively for individuals seeking a second marriage. Casual dating, friendship requests, or non-matrimonial intentions are not permitted."
+      },
+      {
+        "icon": "shield",
+        "title": "Respect & Dignity",
+        "description": "Treat every member with respect regardless of their background, religion, or ethnicity. Harassment, hate speech, and discriminatory behaviour are not tolerated."
+      },
+      {
+        "icon": "lock",
+        "title": "Privacy Protection",
+        "description": "Do not share personal contact information in public areas. Sharing another member's private information without consent is prohibited."
+      },
+      {
+        "icon": "no_photography",
+        "title": "Appropriate Photos",
+        "description": "Upload only clear, recent, and appropriate photos of yourself. Obscene, offensive, or stolen photos are forbidden and subject to removal."
+      },
+      {
+        "icon": "warning",
+        "title": "No Scams or Fraud",
+        "description": "Any attempt to deceive members for financial gain, emotional manipulation, or fraudulent activity will result in a permanent ban and may be reported to authorities."
+      },
+      {
+        "icon": "child_care",
+        "title": "Child Safety",
+        "description": "Members must be 25 years or older. Any content that endangers minors is strictly prohibited. Violations will be reported to law enforcement."
+      },
+      {
+        "icon": "gavel",
+        "title": "Compliance with Laws",
+        "description": "All members must comply with local laws and regulations. The platform reserves the right to cooperate with law enforcement when required."
+      }
+    ],
+    "footerNote": "Violations of community rules will result in warnings, temporary suspension, or permanent removal depending on severity. Our moderation team reviews all reports within 24 hours.",
+    "actions": [
+      {
+        "icon": "shield",
+        "label": "Open Safety Center",
+        "action": {
+          "type": "route",
+          "target": "safety"
+        }
+      },
+      {
+        "icon": "support_agent",
+        "label": "Contact Support",
+        "action": {
+          "type": "email",
+          "target": "support@macromatrix.io",
+          "subject": "Second Marriage Community Rules Report"
+        }
+      }
+    ]
+  }
+}
