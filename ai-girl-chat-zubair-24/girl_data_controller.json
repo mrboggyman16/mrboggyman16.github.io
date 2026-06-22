@@ -44,5 +44,9 @@
     "video_small_pack": 250,
     "video_medium_pack": 600,
     "video_large_pack": 1200
+  },
+  "starter_credits": {
+    "call_credits": 10,
+    "video_credits": 30
   }
 }
