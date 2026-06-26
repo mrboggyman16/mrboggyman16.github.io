@@ -56,5 +56,11 @@
     "minimum_build_number": 0,
     "minimum_version": "2.2.2",
     "update_message": "A new version of the app is available. Please update to continue."
+  },
+  "live_ads": {
+    "messages_per_interstitial": 5,
+    "show_ad_on_live_ended": true,
+    "show_ad_on_go_live_exit": true,
+    "show_ad_on_girl_live_exit": true
   }
 }
