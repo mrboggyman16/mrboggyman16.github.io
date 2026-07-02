@@ -12,7 +12,13 @@
     "max_active_interval_later_minutes": 8,
     "min_inactive_interval_minutes": 8,
     "max_inactive_interval_minutes": 15,
-    "early_notification_threshold": 4
+    "early_notification_threshold": 4,
+     "exit_delays_seconds": [
+      300,
+      600,
+      7200
+    ],
+    "exit_daily_notification_days": 7
   },
   "feature_flags": {
     "enable_swipe_limit": true,
