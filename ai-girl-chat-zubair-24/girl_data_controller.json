@@ -14,7 +14,7 @@
     "max_inactive_interval_minutes": 15,
     "early_notification_threshold": 4,
      "exit_delays_seconds": [
-      300,
+      100,
       600,
       7200
     ],
