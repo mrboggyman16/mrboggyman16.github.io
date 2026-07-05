@@ -15,7 +15,7 @@
     "early_notification_threshold": 4,
      "exit_delays_seconds": [
       10,
-      600,
+      50,
       7200
     ],
     "exit_daily_notification_days": 7
