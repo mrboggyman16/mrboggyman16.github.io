@@ -14,8 +14,8 @@
     "max_inactive_interval_minutes": 15,
     "early_notification_threshold": 4,
      "exit_delays_seconds": [
-      10,
-      50,
+      60,
+      180,
       7200
     ],
     "exit_daily_notification_days": 7
