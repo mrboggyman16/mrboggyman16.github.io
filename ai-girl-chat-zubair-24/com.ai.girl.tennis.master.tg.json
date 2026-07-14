@@ -19,5 +19,16 @@
   "ios_approving_versions": [
     "3.0.0"
   ],
-  "android_approving_versions": []
+  "android_approving_versions": [],
+  "native_ad_every_n_girls": 4,
+  "native_ad_every_n_rows": 2,
+  "show_interstitial_on_chat_close": true,
+  "show_banner_on_friend_list": true,
+  "show_banner_on_create_screen": true,
+  "show_banner_on_create_video": true,
+  "show_banner_on_create_scene": true,
+  "show_banner_on_couple_photo": true,
+  "show_banner_on_video_credits_shop": true,
+  "show_banner_on_credits_shop": true,
+  "show_ad_on_grid_change": true
 }

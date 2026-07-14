@@ -1,7 +1,7 @@
 {
   "swipe_config": {
     "non_premium_daily_swipe_limit": 6,
-    "swipe_limit_reset_hours": 36000,
+    "swipe_limit_reset_hours": 24,
     "show_premium_prompt_after_limit": true
   },
   "notification_timing": {
@@ -13,7 +13,7 @@
     "min_inactive_interval_minutes": 8,
     "max_inactive_interval_minutes": 15,
     "early_notification_threshold": 4,
-     "exit_delays_seconds": [
+    "exit_delays_seconds": [
       60,
       180,
       7200
@@ -52,7 +52,7 @@
     "video_large_pack": 1200
   },
   "starter_credits": {
-    "call_credits": 10,
+    "call_credits": 0,
     "video_credits": 35
   },
   "alerts": {
@@ -68,5 +68,9 @@
     "show_ad_on_live_ended": true,
     "show_ad_on_go_live_exit": true,
     "show_ad_on_girl_live_exit": true
+  },
+  "call_config": {
+    "min_call_seconds": 100,
+    "max_call_seconds": 120
   }
 }
