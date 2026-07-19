@@ -30,7 +30,7 @@
   "show_banner_on_couple_photo": true,
   "show_banner_on_video_credits_shop": true,
   "show_banner_on_credits_shop": true,
-  "show_ad_on_grid_change": true,
+  "show_ad_on_grid_change": false,
   "live_emoji_taps_per_interstitial": 2,
   "messages_per_interstitial": 2
 }
