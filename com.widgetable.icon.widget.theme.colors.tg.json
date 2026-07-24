@@ -14,7 +14,16 @@
   "interstitial_ad_count": 2,
   "is_ios_approving": false,
   "is_android_approving": false,
+  "auto_show_app_open_on_resume": true,
   "native_ad_enabled": true,
   "native_ad_row_interval": 2,
-  "auto_show_app_open_on_resume": true
+  "banner_ad_enabled_tab": true,
+  "banner_ad_enabled_home": true,
+  "banner_ad_enabled_text_to_video": true,
+  "banner_ad_enabled_image_to_video": true,
+  "banner_ad_enabled_lip_sync": true,
+  "banner_ad_enabled_restyle": true,
+  "banner_ad_enabled_transition": true,
+  "banner_ad_enabled_effects": true,
+  "banner_ad_enabled_ai_image": true
 }
