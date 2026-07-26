@@ -26,5 +26,6 @@
   "banner_ad_enabled_transition": true,
   "banner_ad_enabled_effects": true,
   "banner_ad_enabled_ai_image": true,
-  "paywall_on_launch_enabled": true
+  "paywall_on_launch_enabled": true,
+  "starter_credits": 35
 }
