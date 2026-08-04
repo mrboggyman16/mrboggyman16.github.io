@@ -24,7 +24,9 @@
     "enable_swipe_limit": true,
     "enable_friend_request_notifications": true,
     "enable_auto_cleanup": true,
-    "show_ai_data_processing_notice": false
+    "show_ai_data_processing_notice": false,
+    "enable_relationship_experience": true,
+    "enable_today_with_her": true
   },
   "default_images": {
     "shop_screen_background_image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg",
