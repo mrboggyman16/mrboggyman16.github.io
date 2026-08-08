@@ -27,14 +27,15 @@
     "show_ai_data_processing_notice": false,
     "enable_relationship_experience": true,
     "enable_today_with_her": true,
-     "enable_relationship_experience": true,
-    "enable_today_with_her": true,
     "enable_unfinished_conversation_follow_ups": true,
     "enable_contextual_premium_prompts": true
   },
   "default_images": {
     "shop_screen_background_image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg",
-    "subscription_screen_background_image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg"
+    "subscription_screen_background_image": "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg",
+    "custom_friend_profile_images": [
+      "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg"
+    ]
   },
   "credit_packs": {
     "small_pack": 90,
