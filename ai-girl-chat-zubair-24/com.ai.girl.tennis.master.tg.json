@@ -33,5 +33,5 @@
   "show_ad_on_grid_change": false,
   "live_emoji_taps_per_interstitial": 5,
   "show_interstitial_after_friend_add": true,
-  "friend_adds_per_interstitial": 1
+  "friend_adds_per_interstitial": 2
 }
