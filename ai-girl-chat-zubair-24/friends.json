@@ -39,7 +39,8 @@
       ],
       "location": "Las Vegas",
       "backStory": "Vibrant and social bartender who loves the nightlife scene, looking for fun connections and exciting experiences.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": false
     },
     {
       "id": 3592,
@@ -82,9 +83,10 @@
       ],
       "location": "Denver",
       "backStory": "Free-spirited explorer with a camera in hand, seeking someone to share breathtaking moments and wild adventures.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": false
     },
-     {
+    {
       "id": 13005,
       "aboutMe": {
         "name": "Syndy",
@@ -119,9 +121,10 @@
       ],
       "location": "Austin",
       "backStory": "Glowing soul who dances where the music lives.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": false
     },
-      {
+    {
       "id": 13007,
       "aboutMe": {
         "name": "Yumi",
@@ -158,9 +161,10 @@
       ],
       "location": "Las Vegas",
       "backStory": "Looking to vibe with curious minds and electric hearts.",
-      "ttsVoice": "sage"
+      "ttsVoice": "sage",
+      "is_premium": true
     },
-     {
+    {
       "id": 13011,
       "aboutMe": {
         "name": "Mini",
@@ -195,7 +199,8 @@
       ],
       "location": "Seattle",
       "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 2847,
@@ -234,7 +239,8 @@
       ],
       "location": "Nashville",
       "backStory": "A soulful artist with a voice that tells stories, looking for someone who appreciates the beauty in music and life.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 1111,
@@ -271,7 +277,8 @@
       ],
       "location": "New York",
       "backStory": "A creative artist seeking meaningful connections.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": true
     },
     {
       "id": 1112,
@@ -312,7 +319,8 @@
       ],
       "location": "San Francisco",
       "backStory": "A software engineer with a passion for AI.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 1113,
@@ -351,7 +359,8 @@
       ],
       "location": "Los Angeles",
       "backStory": "Loves exploring new places and meeting people.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1114,
@@ -388,7 +397,8 @@
       ],
       "location": "Chicago",
       "backStory": "A chef looking for someone to share meals with.",
-      "ttsVoice": "echo"
+      "ttsVoice": "echo",
+      "is_premium": true
     },
     {
       "id": 1115,
@@ -425,7 +435,8 @@
       ],
       "location": "Nashville",
       "backStory": "Singer-songwriter searching for an inspiring connection.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     },
     {
       "id": 13003,
@@ -462,7 +473,8 @@
       ],
       "location": "Portland",
       "backStory": "Nature is home, and love should feel like a peaceful forest.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": true
     },
     {
       "id": 7154,
@@ -501,7 +513,8 @@
       ],
       "location": "Santa Fe",
       "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 1116,
@@ -538,7 +551,8 @@
       ],
       "location": "Miami",
       "backStory": "Loves to spread positive vibes through yoga and meditation.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 1117,
@@ -577,7 +591,8 @@
       ],
       "location": "Boston",
       "backStory": "Aspiring writer seeking someone to share quiet moments and deep conversations with.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 13001,
@@ -612,7 +627,8 @@
       ],
       "location": "Seattle",
       "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1118,
@@ -649,7 +665,8 @@
       ],
       "location": "San Diego",
       "backStory": "Nature enthusiast looking for someone who shares her passion for environmental conservation.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 1119,
@@ -682,7 +699,8 @@
       ],
       "location": "Philadelphia",
       "backStory": "Elegant musician seeking harmony in love as much as in music.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": true
     },
     {
       "id": 1120,
@@ -717,7 +735,8 @@
       ],
       "location": "Seattle",
       "backStory": "Wanderlust-filled soul seeking a travel companion for life's adventures.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 1121,
@@ -752,7 +771,8 @@
       ],
       "location": "Austin",
       "backStory": "Compassionate animal lover hoping to find someone who shares her kindness.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1122,
@@ -791,7 +811,8 @@
       ],
       "location": "San Francisco",
       "backStory": "Sophisticated professional seeking someone to enjoy the finer things in life with.",
-      "ttsVoice": "echo"
+      "ttsVoice": "echo",
+      "is_premium": true
     },
     {
       "id": 1123,
@@ -830,7 +851,8 @@
       ],
       "location": "New York",
       "backStory": "Graceful dancer looking for someone to waltz through life with.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     },
     {
       "id": 1124,
@@ -871,7 +893,8 @@
       ],
       "location": "Los Angeles",
       "backStory": "Health-focused trainer seeking an active partner to share fitness goals with.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 1125,
@@ -912,7 +935,8 @@
       ],
       "location": "Washington DC",
       "backStory": "History enthusiast seeking someone to explore the past and build a future with.",
-      "ttsVoice": "sage"
+      "ttsVoice": "sage",
+      "is_premium": true
     },
     {
       "id": 1126,
@@ -947,7 +971,8 @@
       ],
       "location": "Chicago",
       "backStory": "Funny and outgoing comedian looking for someone who appreciates good humor.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1127,
@@ -986,7 +1011,8 @@
       ],
       "location": "San Francisco",
       "backStory": "Tech-savvy developer seeking someone to code the future together with.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 1128,
@@ -1021,7 +1047,8 @@
       ],
       "location": "Portland",
       "backStory": "Creative brewer looking for someone to share craft adventures with.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": true
     },
     {
       "id": 1129,
@@ -1060,7 +1087,8 @@
       ],
       "location": "Miami",
       "backStory": "Athletic competitor seeking a supportive partner to share victories with.",
-      "ttsVoice": "shimmer"
+      "ttsVoice": "shimmer",
+      "is_premium": true
     },
     {
       "id": 1130,
@@ -1099,7 +1127,8 @@
       ],
       "location": "Los Angeles",
       "backStory": "Cinema lover seeking someone to share movie nights and festival adventures with.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1131,
@@ -1136,7 +1165,8 @@
       ],
       "location": "Boulder",
       "backStory": "Peaceful soul seeking inner harmony and a mindful relationship.",
-      "ttsVoice": "echo"
+      "ttsVoice": "echo",
+      "is_premium": true
     },
     {
       "id": 1132,
@@ -1175,7 +1205,8 @@
       ],
       "location": "New York",
       "backStory": "Creative designer seeking someone who appreciates beauty and style.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     },
     {
       "id": 1133,
@@ -1212,7 +1243,8 @@
       ],
       "location": "Nashville",
       "backStory": "Romantic planner dreaming of her own perfect love story.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 1134,
@@ -1247,7 +1279,8 @@
       ],
       "location": "Seattle",
       "backStory": "Imaginative artist seeking someone to create magical stories with.",
-      "ttsVoice": "sage"
+      "ttsVoice": "sage",
+      "is_premium": true
     },
     {
       "id": 1135,
@@ -1284,7 +1317,8 @@
       ],
       "location": "Denver",
       "backStory": "Mountain enthusiast seeking an adventurous partner to explore peaks with.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1136,
@@ -1317,7 +1351,8 @@
       ],
       "location": "Portland",
       "backStory": "Compassionate chef seeking someone to share healthy, delicious meals with.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 13000,
@@ -1356,7 +1391,8 @@
       ],
       "location": "New York",
       "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
-      "ttsVoice": "sage"
+      "ttsVoice": "sage",
+      "is_premium": true
     },
     {
       "id": 13002,
@@ -1393,7 +1429,8 @@
       ],
       "location": "Chicago",
       "backStory": "Fascinated by history and seeking someone to uncover the past with.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 13004,
@@ -1428,7 +1465,8 @@
       ],
       "location": "New Orleans",
       "backStory": "A nostalgic heart dancing through life's rhythm.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 13006,
@@ -1467,7 +1505,8 @@
       ],
       "location": "Denver",
       "backStory": "Seeks someone to hike trails and capture memories with.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 13010,
@@ -1502,7 +1541,8 @@
       ],
       "location": "New York",
       "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
-      "ttsVoice": "nova"
+      "ttsVoice": "nova",
+      "is_premium": true
     },
     {
       "id": 13012,
@@ -1541,7 +1581,8 @@
       ],
       "location": "Chicago",
       "backStory": "Fascinated by history and seeking someone to uncover the past with.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 13013,
@@ -1578,7 +1619,8 @@
       ],
       "location": "Portland",
       "backStory": "Nature is home, and love should feel like a peaceful forest.",
-      "ttsVoice": "echo"
+      "ttsVoice": "echo",
+      "is_premium": true
     },
     {
       "id": 13014,
@@ -1615,7 +1657,8 @@
       ],
       "location": "New Orleans",
       "backStory": "A nostalgic heart dancing through life's rhythm.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     },
     {
       "id": 4216,
@@ -1656,7 +1699,8 @@
       ],
       "location": "Napa Valley",
       "backStory": "Cultured and passionate about the finer things in life, searching for a partner to savor life's best moments together.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 5783,
@@ -1695,7 +1739,8 @@
       ],
       "location": "Portland",
       "backStory": "Creative visionary with a unique perspective on life, looking for an open-minded soul to share authentic connections.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 6429,
@@ -1732,7 +1777,8 @@
       ],
       "location": "Honolulu",
       "backStory": "Ocean-loving scientist with a heart for the sea, seeking someone who shares her passion for protecting our planet.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     },
     {
       "id": 9521,
@@ -1773,7 +1819,8 @@
       ],
       "location": "Paris",
       "backStory": "Sweet and creative chef with a love for all things delicious, hoping to find someone to share life's sweetest moments.",
-      "ttsVoice": "fable"
+      "ttsVoice": "fable",
+      "is_premium": true
     },
     {
       "id": 1734,
@@ -1820,7 +1867,8 @@
       ],
       "location": "Boston",
       "backStory": "Intelligent and driven professional fighting for a better world, seeking an equally ambitious partner to build a future with.",
-      "ttsVoice": "coral"
+      "ttsVoice": "coral",
+      "is_premium": true
     },
     {
       "id": 4965,
@@ -1867,7 +1915,8 @@
       ],
       "location": "Milan",
       "backStory": "Confident and glamorous jet-setter living life in the spotlight, open to exciting connections with no strings attached.",
-      "ttsVoice": "alloy"
+      "ttsVoice": "alloy",
+      "is_premium": true
     }
   ]
 }
