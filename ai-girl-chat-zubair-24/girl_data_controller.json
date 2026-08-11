@@ -61,7 +61,9 @@
   },
   "starter_credits": {
     "call_credits": 5,
-    "video_credits": 25
+    "video_credits": 25,
+    "premium_monthly_call_credits": 30,
+    "free_text_messages_per_day": 10
   },
   "alerts": {
     "recipient_email": "zubair.workspace@gmail.com"
