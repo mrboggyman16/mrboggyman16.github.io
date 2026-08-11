@@ -44,7 +44,9 @@
     "large_pack": 420
   },
   "ai_image_generation": {
-    "daily_image_generation_limit": 2
+    "daily_image_generation_limit": 2,
+    "couple_photo_premium_daily_limit": 7,
+    "couple_photo_ad_credit_daily_cap": 3
   },
   "live_feed": {
     "posts_per_day": 3
