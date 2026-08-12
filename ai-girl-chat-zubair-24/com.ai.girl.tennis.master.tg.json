@@ -13,15 +13,15 @@
     "facebook",
     "any"
   ],
-  "interstitial_ad_count": 4,
+  "interstitial_ad_count": 5,
   "is_ios_approving": false,
   "is_android_approving": false,
   "ios_approving_versions": [
     "3.0.2"
   ],
   "android_approving_versions": [],
-  "native_ad_every_n_girls": 4,
-  "native_ad_every_n_rows": 2,
+  "native_ad_every_n_girls": 6,
+  "native_ad_every_n_rows": 3,
   "show_interstitial_on_chat_close": false,
   "show_banner_on_friend_list": false,
   "show_banner_on_create_screen": true,
@@ -33,5 +33,5 @@
   "show_ad_on_grid_change": false,
   "live_emoji_taps_per_interstitial": 5,
   "show_interstitial_after_friend_add": true,
-  "friend_adds_per_interstitial": 2
+  "friend_adds_per_interstitial": 3
 }
