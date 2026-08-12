@@ -64,7 +64,7 @@
   "starter_credits": {
     "call_credits": 5,
     "video_credits": 25,
-    "premium_monthly_call_credits": 30,
+    "premium_monthly_call_credits": 10,
     "free_text_messages_per_day": 10
   },
   "alerts": {
