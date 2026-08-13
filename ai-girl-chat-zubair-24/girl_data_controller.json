@@ -94,6 +94,9 @@
     "chat_gift": 2,
     "daily_letter": 0,
     "secret_message": 0,
-    "mood_change": 1
+    "mood_change": 1,
+    "lifetime": {
+      "voice_message": 3
+    }
   }
 }
