@@ -13,8 +13,8 @@
     "facebook",
     "any"
   ],
-  "interstitial_ad_count": 4,
-  "is_ios_approving": true,
+  "interstitial_ad_count": 3,
+  "is_ios_approving": false,
   "is_android_approving": false,
   "ios_approving_versions": [
     "3.0.3"
