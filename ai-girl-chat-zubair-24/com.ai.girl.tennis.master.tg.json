@@ -17,7 +17,7 @@
   "is_ios_approving": true,
   "is_android_approving": false,
   "ios_approving_versions": [
-    "3.0.2"
+    "3.0.3"
   ],
   "android_approving_versions": [],
   "native_ad_every_n_girls": 6,
