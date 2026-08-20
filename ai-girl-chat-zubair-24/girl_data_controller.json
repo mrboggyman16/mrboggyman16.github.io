@@ -74,7 +74,7 @@
   },
   "app_update": {
     "minimum_build_number": 0,
-    "minimum_version": "2.2.2",
+    "minimum_version": "3.0.3",
     "update_message": "A new version of the app is available. Please update to continue."
   },
   "live_ads": {
