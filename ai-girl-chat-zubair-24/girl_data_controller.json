@@ -114,8 +114,8 @@
     "decline_text": "No thanks"
   },
   "chat_config": {
-    "max_reply_tokens": 150,
-    "max_context_tokens_free": 400,
-    "max_context_tokens_premium": 1500
+    "max_reply_tokens": 100,
+    "max_context_tokens_free": 250,
+    "max_context_tokens_premium": 600
   }
 }
