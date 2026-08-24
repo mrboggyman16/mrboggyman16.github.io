@@ -98,5 +98,18 @@
     "lifetime": {
       "voice_message": 3
     }
+  },
+  "yearly_bundle_bonus": {
+    "enabled": false,
+    "credits_amount": 300,
+    "badge_text": "🎁 +{amount} free call credits",
+    "toast_text": "Welcome to Premium! +{amount} free call credits 🎁"
+  },
+  "paywall_downsell": {
+    "enabled": false,
+    "title": "Wait — try it for less first?",
+    "subtitle": "{plan} — {price}. Same Premium, lower commitment.",
+    "cta_text": "Get {plan} for {price}",
+    "decline_text": "No thanks"
   }
 }
