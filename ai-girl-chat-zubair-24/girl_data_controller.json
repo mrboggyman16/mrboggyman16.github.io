@@ -29,7 +29,8 @@
     "enable_today_with_her": true,
     "enable_unfinished_conversation_follow_ups": true,
     "enable_contextual_premium_prompts": true,
-    "enable_onboarding_paywall": true
+    "enable_onboarding_paywall": true,
+    "enable_realistic_messaging": true
   },
   "default_images": {
     "shop_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/paywall/paywall_bg.jpeg",
