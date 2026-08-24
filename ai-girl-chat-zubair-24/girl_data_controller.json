@@ -101,16 +101,21 @@
     }
   },
   "yearly_bundle_bonus": {
-    "enabled": false,
+    "enabled": true,
     "credits_amount": 300,
     "badge_text": "🎁 +{amount} free call credits",
     "toast_text": "Welcome to Premium! +{amount} free call credits 🎁"
   },
   "paywall_downsell": {
-    "enabled": false,
+    "enabled": true,
     "title": "Wait — try it for less first?",
     "subtitle": "{plan} — {price}. Same Premium, lower commitment.",
     "cta_text": "Get {plan} for {price}",
     "decline_text": "No thanks"
+  },
+  "chat_config": {
+    "max_reply_tokens": 150,
+    "max_context_tokens_free": 400,
+    "max_context_tokens_premium": 1500
   }
 }
