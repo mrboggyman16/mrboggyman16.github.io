@@ -120,6 +120,6 @@
     "enable_conversation_summarization": true,
     "summary_regenerate_every_messages": 20,
     "summary_max_tokens": 80,
-    "enable_structured_memory_extraction": false
+    "enable_structured_memory_extraction": true
   }
 }
