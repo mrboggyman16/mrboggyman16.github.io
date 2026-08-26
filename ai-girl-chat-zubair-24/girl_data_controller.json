@@ -119,6 +119,7 @@
     "max_context_tokens_premium": 600,
     "enable_conversation_summarization": true,
     "summary_regenerate_every_messages": 20,
-    "summary_max_tokens": 80
+    "summary_max_tokens": 80,
+    "enable_structured_memory_extraction": false
   }
 }
