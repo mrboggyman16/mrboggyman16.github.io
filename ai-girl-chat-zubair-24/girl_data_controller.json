@@ -30,7 +30,8 @@
     "enable_unfinished_conversation_follow_ups": true,
     "enable_contextual_premium_prompts": true,
     "enable_onboarding_paywall": true,
-    "enable_realistic_messaging": true
+    "enable_realistic_messaging": true,
+    "enable_guest_first_flow": true
   },
   "default_images": {
     "shop_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/paywall/paywall_bg.jpeg",
@@ -120,6 +121,10 @@
     "enable_conversation_summarization": true,
     "summary_regenerate_every_messages": 20,
     "summary_max_tokens": 80,
-    "enable_structured_memory_extraction": true
+    "enable_structured_memory_extraction": true,
+    "guest_signup_prompt_after_messages": 4
+  },
+  "app_open_ad": {
+    "min_chat_opens_before_showing": 1
   }
 }
