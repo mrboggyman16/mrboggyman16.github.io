@@ -149,5 +149,10 @@
     "plan": "weekly",
     "install_offer_days": 2,
     "discount_percent": 50
+  },
+  "subscription_paywall": {
+    "show_best_value_badge": true,
+    "best_value_product": "annual",
+    "best_value_badge_text": "BEST VALUE"
   }
 }
