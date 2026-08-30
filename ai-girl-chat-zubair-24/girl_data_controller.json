@@ -117,7 +117,8 @@
     "title": "Wait — try it for less first?",
     "subtitle": "{plan} — {price}. Same Premium, lower commitment.",
     "cta_text": "Get {plan} for {price}",
-    "decline_text": "No thanks"
+    "decline_text": "No thanks",
+    "close_button_delay_seconds": 3
   },
   "chat_config": {
     "max_reply_tokens": 100,
@@ -143,6 +144,7 @@
     "recurrence": "daily",
     "daily_reset_hour": 0,
     "ends_at_utc": "",
-    "show_on_home_app_bar": true
+    "show_on_home_app_bar": true,
+    "plan": "weekly"
   }
 }
