@@ -105,7 +105,12 @@
     "enabled": true,
     "credits_amount": 30,
     "badge_text": "+{amount} free call credits",
-    "toast_text": "Welcome to Premium! +{amount} free call credits 🎁"
+    "toast_text": "Welcome to Premium! +{amount} free call credits 🎁",
+    "credits_by_plan": {
+      "weekly": 10,
+      "monthly": 20,
+      "annual": 30
+    }
   },
   "paywall_downsell": {
     "enabled": true,
@@ -126,5 +131,18 @@
   },
   "app_open_ad": {
     "min_chat_opens_before_showing": 1
+  },
+  "home_access": {
+    "free_girl_ids": [],
+    "free_girl_count": 3
+  },
+  "discount_campaign": {
+    "enabled": true,
+    "title": "50% OFF ON WEEKLY",
+    "subtitle": "Ends at midnight",
+    "recurrence": "daily",
+    "daily_reset_hour": 0,
+    "ends_at_utc": "",
+    "show_on_home_app_bar": true
   }
 }
