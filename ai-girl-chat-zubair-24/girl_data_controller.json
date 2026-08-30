@@ -108,9 +108,9 @@
     "badge_text": "+{amount} free call credits",
     "toast_text": "Welcome to Premium! +{amount} free call credits 🎁",
     "credits_by_plan": {
-      "weekly": 10,
+      "weekly": 0,
       "monthly": 20,
-      "annual": 30
+      "annual": 0
     }
   },
   "paywall_downsell": {
