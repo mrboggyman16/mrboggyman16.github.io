@@ -154,5 +154,11 @@
     "show_best_value_badge": true,
     "best_value_product": "annual",
     "best_value_badge_text": "BEST VALUE"
+  },
+  "couple_photo_invite": {
+    "enabled": true,
+    "girl_ids": [],
+    "max_girls_to_show": 3,
+    "free_first_generation": true
   }
 }
