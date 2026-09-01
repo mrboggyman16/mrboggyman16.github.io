@@ -104,11 +104,10 @@
   },
   "yearly_bundle_bonus": {
     "enabled": true,
-    "credits_amount": 30,
     "credits_by_plan": {
       "annual": 30
     },
-    "badge_text": "🎁 +{amount} free call credits"
+    "badge_text": "+{amount} free call credits"
   },
   "paywall_downsell": {
     "enabled": true,
@@ -137,15 +136,8 @@
   },
   "discount_campaign": {
     "enabled": true,
-    "title": "50% OFF ON WEEKLY",
-    "subtitle": "Ends at midnight",
-    "recurrence": "daily",
-    "daily_reset_hour": 0,
-    "ends_at_utc": "",
-    "show_on_home_app_bar": true,
-    "plan": "yearly",
-    "install_offer_days": 2,
-    "discount_percent": 50
+    "plan": "annual",
+    "recurrence": "daily"
   },
   "subscription_paywall": {
     "show_best_value_badge": true,
