@@ -143,7 +143,7 @@
     "daily_reset_hour": 0,
     "ends_at_utc": "",
     "show_on_home_app_bar": true,
-    "plan": "weekly",
+    "plan": "yearly",
     "install_offer_days": 2,
     "discount_percent": 50
   },
