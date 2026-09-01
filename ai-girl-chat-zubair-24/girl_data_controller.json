@@ -149,5 +149,9 @@
     "girl_ids": [],
     "max_girls_to_show": 3,
     "free_first_generation": true
+  },
+  "subscription_paywall": {
+    "divide_monthly_price": true,
+    "divide_annual_price": true
   }
 }
