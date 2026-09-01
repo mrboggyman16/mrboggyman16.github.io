@@ -111,11 +111,11 @@
   },
   "paywall_downsell": {
     "enabled": true,
-    "title": "Wait — try it for less first?",
-    "subtitle": "{plan} — {price}. Same Premium, lower commitment.",
-    "cta_text": "Get {plan} for {price}",
-    "decline_text": "No thanks",
-    "close_button_delay_seconds": 3
+    "plan": "monthly",
+    "button_text": "Continue with {plan} · {price}",
+    "title": "Choose your Premium plan",
+    "subtitle": "Unlock all Premium features.",
+    "decline_text": "No thanks"
   },
   "chat_config": {
     "max_reply_tokens": 100,
