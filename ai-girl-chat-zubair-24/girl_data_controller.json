@@ -107,7 +107,7 @@
     "credits_by_plan": {
       "annual": 30
     },
-    "badge_text": "+{amount} free call credits"
+    "badge_text": "+{amount} Free Voice Call Credits"
   },
   "paywall_downsell": {
     "enabled": true,
