@@ -40,7 +40,8 @@
     "custom_friend_profile_images": [
       "https://github.com/zubairali18/assets/raw/main/ai-girl-chat/girls/Aria/8ef928255219e00946a2b99143031f07.jpg"
     ],
-    "app_logo_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/logo/logo.png"
+    "app_logo_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/logo/logo.png",
+    "downsell_screen_background_image": "YOUR_DOWNSELL_IMAGE_URL"
   },
   "credit_packs": {
     "small_pack": 90,
@@ -140,18 +141,13 @@
     "recurrence": "daily"
   },
   "subscription_paywall": {
-    "show_best_value_badge": true,
-    "best_value_product": "annual",
-    "best_value_badge_text": "BEST VALUE"
+    "divide_monthly_price": true,
+    "divide_annual_price": true
   },
   "couple_photo_invite": {
     "enabled": true,
     "girl_ids": [],
     "max_girls_to_show": 3,
     "free_first_generation": true
-  },
-  "subscription_paywall": {
-    "divide_monthly_price": true,
-    "divide_annual_price": true
   }
 }
