@@ -41,7 +41,7 @@
       "backStory": "Vibrant and social bartender who loves the nightlife scene, looking for fun connections and exciting experiences.",
       "ttsVoice": "nova",
       "is_premium": false,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 3592,
@@ -86,7 +86,7 @@
       "backStory": "Free-spirited explorer with a camera in hand, seeking someone to share breathtaking moments and wild adventures.",
       "ttsVoice": "nova",
       "is_premium": false,
-      "category": "adventure_travel"
+      "category": "adventurous_fun"
     },
     {
       "id": 13005,
@@ -125,7 +125,7 @@
       "backStory": "Glowing soul who dances where the music lives.",
       "ttsVoice": "shimmer",
       "is_premium": false,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 13007,
@@ -166,7 +166,7 @@
       "backStory": "Looking to vibe with curious minds and electric hearts.",
       "ttsVoice": "sage",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 13011,
@@ -205,7 +205,7 @@
       "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "tech_gaming"
+      "category": "deep_emotional"
     },
     {
       "id": 2847,
@@ -246,7 +246,7 @@
       "backStory": "A soulful artist with a voice that tells stories, looking for someone who appreciates the beauty in music and life.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "deep_emotional"
     },
     {
       "id": 1111,
@@ -285,7 +285,7 @@
       "backStory": "A creative artist seeking meaningful connections.",
       "ttsVoice": "nova",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 1112,
@@ -328,7 +328,7 @@
       "backStory": "A software engineer with a passion for AI.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "tech_gaming"
+      "category": "confident_bold"
     },
     {
       "id": 1113,
@@ -369,7 +369,7 @@
       "backStory": "Loves exploring new places and meeting people.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "adventurous_fun"
     },
     {
       "id": 1114,
@@ -408,7 +408,7 @@
       "backStory": "A chef looking for someone to share meals with.",
       "ttsVoice": "echo",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "sweet_caring"
     },
     {
       "id": 1115,
@@ -447,7 +447,7 @@
       "backStory": "Singer-songwriter searching for an inspiring connection.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "deep_emotional"
     },
     {
       "id": 13003,
@@ -486,7 +486,7 @@
       "backStory": "Nature is home, and love should feel like a peaceful forest.",
       "ttsVoice": "nova",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "sweet_caring"
     },
     {
       "id": 7154,
@@ -527,7 +527,7 @@
       "backStory": "Spiritual and intuitive soul reader, searching for a cosmic connection written in the stars.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "deep_emotional"
     },
     {
       "id": 1116,
@@ -566,7 +566,7 @@
       "backStory": "Loves to spread positive vibes through yoga and meditation.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "sweet_caring"
     },
     {
       "id": 1117,
@@ -607,7 +607,7 @@
       "backStory": "Aspiring writer seeking someone to share quiet moments and deep conversations with.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 13001,
@@ -644,7 +644,7 @@
       "backStory": "Quiet thinker with a wild imagination looking for deep convos.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "tech_gaming"
+      "category": "deep_emotional"
     },
     {
       "id": 1118,
@@ -683,7 +683,7 @@
       "backStory": "Nature enthusiast looking for someone who shares her passion for environmental conservation.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "confident_bold"
     },
     {
       "id": 1119,
@@ -718,7 +718,7 @@
       "backStory": "Elegant musician seeking harmony in love as much as in music.",
       "ttsVoice": "nova",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "sweet_caring"
     },
     {
       "id": 1120,
@@ -755,7 +755,7 @@
       "backStory": "Wanderlust-filled soul seeking a travel companion for life's adventures.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "adventurous_fun"
     },
     {
       "id": 1121,
@@ -792,7 +792,7 @@
       "backStory": "Compassionate animal lover hoping to find someone who shares her kindness.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "sweet_caring"
     },
     {
       "id": 1122,
@@ -833,7 +833,7 @@
       "backStory": "Sophisticated professional seeking someone to enjoy the finer things in life with.",
       "ttsVoice": "echo",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "confident_bold"
     },
     {
       "id": 1123,
@@ -874,7 +874,7 @@
       "backStory": "Graceful dancer looking for someone to waltz through life with.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 1124,
@@ -917,7 +917,7 @@
       "backStory": "Health-focused trainer seeking an active partner to share fitness goals with.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "confident_bold"
     },
     {
       "id": 1125,
@@ -960,7 +960,7 @@
       "backStory": "History enthusiast seeking someone to explore the past and build a future with.",
       "ttsVoice": "sage",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 1126,
@@ -997,7 +997,7 @@
       "backStory": "Funny and outgoing comedian looking for someone who appreciates good humor.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 1127,
@@ -1038,7 +1038,7 @@
       "backStory": "Tech-savvy developer seeking someone to code the future together with.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "tech_gaming"
+      "category": "confident_bold"
     },
     {
       "id": 1128,
@@ -1075,7 +1075,7 @@
       "backStory": "Creative brewer looking for someone to share craft adventures with.",
       "ttsVoice": "nova",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "flirty_playful"
     },
     {
       "id": 1129,
@@ -1116,7 +1116,7 @@
       "backStory": "Athletic competitor seeking a supportive partner to share victories with.",
       "ttsVoice": "shimmer",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "confident_bold"
     },
     {
       "id": 1130,
@@ -1157,7 +1157,7 @@
       "backStory": "Cinema lover seeking someone to share movie nights and festival adventures with.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 1131,
@@ -1196,7 +1196,7 @@
       "backStory": "Peaceful soul seeking inner harmony and a mindful relationship.",
       "ttsVoice": "echo",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "sweet_caring"
     },
     {
       "id": 1132,
@@ -1237,7 +1237,7 @@
       "backStory": "Creative designer seeking someone who appreciates beauty and style.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "confident_bold"
     },
     {
       "id": 1133,
@@ -1276,7 +1276,7 @@
       "backStory": "Romantic planner dreaming of her own perfect love story.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "flirty_playful"
     },
     {
       "id": 1134,
@@ -1313,7 +1313,7 @@
       "backStory": "Imaginative artist seeking someone to create magical stories with.",
       "ttsVoice": "sage",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 1135,
@@ -1352,7 +1352,7 @@
       "backStory": "Mountain enthusiast seeking an adventurous partner to explore peaks with.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "adventurous_fun"
     },
     {
       "id": 1136,
@@ -1387,7 +1387,7 @@
       "backStory": "Compassionate chef seeking someone to share healthy, delicious meals with.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "sweet_caring"
     },
     {
       "id": 13000,
@@ -1428,7 +1428,7 @@
       "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
       "ttsVoice": "sage",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 13002,
@@ -1467,7 +1467,7 @@
       "backStory": "Fascinated by history and seeking someone to uncover the past with.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 13004,
@@ -1504,7 +1504,7 @@
       "backStory": "A nostalgic heart dancing through life's rhythm.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 13006,
@@ -1545,7 +1545,7 @@
       "backStory": "Seeks someone to hike trails and capture memories with.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "adventurous_fun"
     },
     {
       "id": 13010,
@@ -1582,7 +1582,7 @@
       "backStory": "Creative soul seeking someone to share life's beautiful moments with.",
       "ttsVoice": "nova",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 13012,
@@ -1623,7 +1623,7 @@
       "backStory": "Fascinated by history and seeking someone to uncover the past with.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "deep_emotional"
     },
     {
       "id": 13013,
@@ -1662,7 +1662,7 @@
       "backStory": "Nature is home, and love should feel like a peaceful forest.",
       "ttsVoice": "echo",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "sweet_caring"
     },
     {
       "id": 13014,
@@ -1701,7 +1701,7 @@
       "backStory": "A nostalgic heart dancing through life's rhythm.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "music_nightlife"
+      "category": "flirty_playful"
     },
     {
       "id": 4216,
@@ -1744,7 +1744,7 @@
       "backStory": "Cultured and passionate about the finer things in life, searching for a partner to savor life's best moments together.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "flirty_playful"
     },
     {
       "id": 5783,
@@ -1785,7 +1785,7 @@
       "backStory": "Creative visionary with a unique perspective on life, looking for an open-minded soul to share authentic connections.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "art_culture"
+      "category": "confident_bold"
     },
     {
       "id": 6429,
@@ -1824,7 +1824,7 @@
       "backStory": "Ocean-loving scientist with a heart for the sea, seeking someone who shares her passion for protecting our planet.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "sweet_caring"
     },
     {
       "id": 9521,
@@ -1867,7 +1867,7 @@
       "backStory": "Sweet and creative chef with a love for all things delicious, hoping to find someone to share life's sweetest moments.",
       "ttsVoice": "fable",
       "is_premium": true,
-      "category": "food_drink"
+      "category": "sweet_caring"
     },
     {
       "id": 1734,
@@ -1916,7 +1916,7 @@
       "backStory": "Intelligent and driven professional fighting for a better world, seeking an equally ambitious partner to build a future with.",
       "ttsVoice": "coral",
       "is_premium": true,
-      "category": "wellness_nature"
+      "category": "confident_bold"
     },
     {
       "id": 4965,
@@ -1965,7 +1965,7 @@
       "backStory": "Confident and glamorous jet-setter living life in the spotlight, open to exciting connections with no strings attached.",
       "ttsVoice": "alloy",
       "is_premium": true,
-      "category": "adventure_travel"
+      "category": "confident_bold"
     }
   ]
 }
