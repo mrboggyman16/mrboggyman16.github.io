@@ -133,7 +133,8 @@
   },
   "home_access": {
     "free_girl_ids": [],
-    "free_girl_count": 3
+    "free_girl_count": 3,
+    "free_category_count": 3
   },
   "discount_campaign": {
     "enabled": true,
