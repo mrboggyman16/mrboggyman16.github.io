@@ -5,6 +5,7 @@
     "show_premium_prompt_after_limit": true
   },
   "notification_timing": {
+    "friend_request_daily_limit": 4,
     "first_notification_delay_seconds": 10,
     "min_active_interval_early_minutes": 1,
     "max_active_interval_early_minutes": 1,
