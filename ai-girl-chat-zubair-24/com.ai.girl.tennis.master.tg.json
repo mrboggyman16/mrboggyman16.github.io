@@ -14,10 +14,10 @@
     "any"
   ],
   "interstitial_ad_count": 2,
-  "is_ios_approving": false,
+  "is_ios_approving": true,
   "is_android_approving": false,
   "ios_approving_versions": [
-    "3.0.3"
+    "3.0.4"
   ],
   "android_approving_versions": [],
   "native_ad_every_n_girls": 3,
