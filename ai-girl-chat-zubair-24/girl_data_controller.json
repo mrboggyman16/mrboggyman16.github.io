@@ -25,7 +25,7 @@
     "enable_swipe_limit": true,
     "enable_friend_request_notifications": true,
     "enable_auto_cleanup": true,
-    "show_ai_data_processing_notice": true,
+    "show_ai_data_processing_notice": false,
     "enable_relationship_experience": true,
     "enable_today_with_her": true,
     "enable_unfinished_conversation_follow_ups": true,
