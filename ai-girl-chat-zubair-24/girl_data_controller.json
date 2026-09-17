@@ -54,6 +54,10 @@
     "medium_pack": 240,
     "large_pack": 420
   },
+  "rewarded_credits": {
+    "call_credits": 5,
+    "video_credits": 5
+  }
   "ai_image_generation": {
     "daily_image_generation_limit": 2,
     "couple_photo_premium_daily_limit": 5,
