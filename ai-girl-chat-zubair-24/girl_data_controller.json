@@ -57,7 +57,7 @@
   "rewarded_credits": {
     "call_credits": 5,
     "video_credits": 5
-  }
+  },
   "ai_image_generation": {
     "daily_image_generation_limit": 2,
     "couple_photo_premium_daily_limit": 5,
@@ -160,5 +160,9 @@
     "girl_ids": [],
     "max_girls_to_show": 3,
     "free_first_generation": true
+  },
+  "home_create_girl_card": {
+    "enabled": true,
+    "image_url": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/Banners/create_girl_banner_home.png"
   }
 }
