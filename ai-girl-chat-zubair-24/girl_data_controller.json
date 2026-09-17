@@ -43,7 +43,11 @@
     ],
     "app_logo_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/logo/logo.png",
     "app_logo_image_dark": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/logo/logo_dark.png",
-    "downsell_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/paywall/downsell_paywall_bg_img.jpeg"
+    "downsell_screen_background_image": "https://raw.githubusercontent.com/zubairali18/assets/main/ai-girl-chat/paywall/downsell_paywall_bg_img.jpeg",
+    "use_network_subscription_paywall_background": false,
+    "use_network_downsell_paywall_background": false,
+    "use_network_call_credits_paywall_background": false,
+    "use_network_video_credits_paywall_background": false
   },
   "credit_packs": {
     "small_pack": 90,
