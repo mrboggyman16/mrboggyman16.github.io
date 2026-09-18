@@ -27,5 +27,9 @@
   "banner_ad_enabled_effects": true,
   "banner_ad_enabled_ai_image": true,
   "paywall_on_launch_enabled": true,
-  "starter_credits": 35
+  "starter_credits": 35,
+  "subscription_weekly_credits": 300,
+  "subscription_monthly_credits": 600,
+  "subscription_biannual_credits": 1200,
+  "subscription_yearly_credits": 2000
 }
