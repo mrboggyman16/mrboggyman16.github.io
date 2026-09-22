@@ -22,7 +22,7 @@
   "android_approving_versions": [],
   "native_ad_every_n_girls": 3,
   "native_ad_every_n_rows": 2,
-  "show_interstitial_on_chat_close": false,
+  "show_interstitial_on_chat_close": true,
   "show_banner_on_friend_list": false,
   "show_banner_on_create_screen": true,
   "show_banner_on_create_video": true,
