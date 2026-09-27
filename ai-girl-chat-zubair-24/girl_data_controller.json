@@ -129,7 +129,7 @@
     "decline_text": "No thanks"
   },
   "chat_config": {
-    "use_openai_chat": true,
+    "use_openai_chat": false,
     "max_reply_tokens": 100,
     "max_context_tokens_free": 250,
     "max_context_tokens_premium": 600,
