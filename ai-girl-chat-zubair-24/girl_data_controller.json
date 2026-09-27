@@ -123,6 +123,7 @@
   "paywall_downsell": {
     "enabled": true,
     "plan": "monthly",
+    "close_button_delay_seconds": 3,
     "button_text": "Continue with {plan} · {price}",
     "title": "Let's try this plan",
     "subtitle": "Unlock all Premium features.",
