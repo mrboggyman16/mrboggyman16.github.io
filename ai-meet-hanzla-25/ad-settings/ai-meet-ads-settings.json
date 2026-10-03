@@ -14,6 +14,15 @@
     "any"
   ],
   "interstitial_ad_count": 2,
-  "is_ios_approving": true,
+  "app_open_min_chat_opens": 1,
+  "native_ad_every_n_profiles": 6,
+  "show_interstitial_on_chat_close": true,
+  "show_interstitial_after_friend_add": true,
+  "friend_adds_per_interstitial": 1,
+  "show_banner_on_matches_list": true,
+  "show_banner_on_create_companion": true,
+  "live_interactions_per_interstitial": 2,
+  "show_interstitial_on_live_exit": true,
+  "is_ios_approving": false,
   "is_android_approving": false
 }
