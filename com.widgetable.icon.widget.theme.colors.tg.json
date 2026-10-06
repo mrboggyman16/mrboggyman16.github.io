@@ -12,7 +12,7 @@
     "any"
   ],
   "interstitial_ad_count": 2,
-  "is_ios_approving": true,
+  "is_ios_approving": false,
   "is_android_approving": false,
   "auto_show_app_open_on_resume": true,
   "native_ad_enabled": true,
