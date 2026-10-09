@@ -23,6 +23,6 @@
   "show_banner_on_create_companion": true,
   "live_interactions_per_interstitial": 2,
   "show_interstitial_on_live_exit": true,
-  "is_ios_approving": true,
+  "is_ios_approving": false,
   "is_android_approving": false
 }
