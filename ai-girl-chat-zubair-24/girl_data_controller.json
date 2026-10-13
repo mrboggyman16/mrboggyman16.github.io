@@ -4,6 +4,15 @@
     "swipe_limit_reset_hours": 24,
     "show_premium_prompt_after_limit": true
   },
+  "ai_models": {
+    "enabled": true,
+    "models_per_day_min": 2,
+    "models_per_day_max": 3,
+    "images_per_model_min": 2,
+    "images_per_model_max": 5,
+    "image_quality": "medium",
+    "premium": true
+  },
   "notification_timing": {
     "friend_request_daily_limit": 4,
     "first_notification_delay_seconds": 10,
