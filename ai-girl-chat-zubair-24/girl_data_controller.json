@@ -34,7 +34,7 @@
     "enable_swipe_limit": true,
     "enable_friend_request_notifications": true,
     "enable_auto_cleanup": true,
-    "show_ai_data_processing_notice": false,
+    "show_ai_data_processing_notice": true,
     "enable_relationship_experience": true,
     "enable_today_with_her": true,
     "enable_unfinished_conversation_follow_ups": true,
@@ -132,7 +132,7 @@
   "paywall_downsell": {
     "enabled": true,
     "plan": "monthly",
-    "close_button_delay_seconds": 3,
+    "close_button_delay_seconds": 0,
     "button_text": "Continue with {plan} · {price}",
     "title": "Let's try this plan",
     "subtitle": "Unlock all Premium features.",
@@ -158,13 +158,13 @@
     "free_category_count": 2
   },
   "discount_campaign": {
-    "enabled": true,
+    "enabled": false,
     "plan": "annual",
     "recurrence": "daily"
   },
   "subscription_paywall": {
-    "divide_monthly_price": true,
-    "divide_annual_price": true
+    "divide_monthly_price": false,
+    "divide_annual_price": false
   },
   "couple_photo_invite": {
     "enabled": true,
